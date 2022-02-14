@@ -1,0 +1,3479 @@
+to pin	अँकड़ना
+to mark	अँकवाना
+wrap up	अँकवारना
+mark	अँकाना
+sprout	अँकुरना
+angkorna	अँकोरना
+eye	अँखुआना
+Angdai_lena	अँगड़ाई_लेना
+Embrace	अँगड़ाना
+Angrana	अँगराना
+wipe	अँगोछना
+Angorna	अँगोरना
+Anchavana	अँचवना
+to hold	अँचवाना
+Anjwana	अँजवाना
+unknown	अँजाना
+Anjorna	अँजोरना
+antna	अँटना
+interlock	अँटवाना
+Antana	अँटाना
+Antennae	अँटियाना
+paralysis	अँठलाना
+to lay	अँडरना
+ovary	अँड़ियाना
+Anduana	अँडुआना
+embarrassment	अँबासना
+tear	अँसुआना
+score_pan	अंक_पाना
+score	अंक_प्राप्त_करना
+mark up	अंकवारना
+sprout	अंकुर_निकलना
+sprouting	अंकुर_फूटना
+sprout	अंकुरना
+Germinate	अंकुरित_होना
+Ankorna	अंकोरना
+implant	अंग_लगाना
+Yawning	अंगड़ाई_लेना
+implant	अंगड़ाना
+embrace	अंगीकार_करना
+swoon	अंगोछना
+Anchavana	अंचवना
+unwrap	अंचवाना
+Anjawana	अंजवाना
+unknown	अंजाना
+Anjornaa	अंजोरना
+Antana	अंटना
+Antwana	अंटवाना
+Antana	अंटाना
+Antiana	अंटियाना
+Antlana	अंठलाना
+underna	अंडरना
+come in	अंदर_आना
+guess	अंदाज_लगाना
+guess	अंदाजना
+to estimate	अंदाजा_लगाना
+to flaunt	अकड़_दिखाना
+numbness	अकड़ना
+Akabkana	अकबकाना
+chuckle	अक़ल_चकराना
+akutana	अकुताना
+Akulana	अकुलाना
+ditch	अखड़ाना
+akharna	अखरना
+fall	अगटना
+agiana	अगिआना
+Agiana	अगियाना
+leader	अगुआना
+agutana	अगुताना
+agotna	अगोटना
+agora	अगोरना
+aggravation	अघवाना
+aghana	अघाना
+surprise	अचकचाना
+listen to	अचवन_करना
+Achwana	अचवना
+get caught	अचवाना
+suddenly come	अचानक_आना
+suddenly	अचाना
+Seems good	अच्छा_लगना
+sit well	अच्छी_तरह_बैठना
+to regret	अछताना-पछताना
+try	अजमाना
+get stuck	अटकना
+to speculate	अटकलना
+stifle	अटकाना
+atana	अटना
+awkward	अटपटाना
+Atwana	अटवाना
+Atana	अटाना
+bobbing	अटेरन_होना
+bobber	अटेरना
+obstruct	अड़ंगा_डालना
+to obstruct	अड़ंगा_लगाना
+stop	अड़काना
+stick	अड़ना
+Adana	अड़ाना
+Adiana	अड़ियाना
+to be overjoyed	अति_आनंदित_होना
+overwork	अति_परिश्रम_करना
+aturana	अतुराना
+torture	अत्याचार_सहना
+To pay	अदा_करना
+to be invisible	अदृश्य_होना
+more_live	अधिक_जीना
+more_day_live	अधिक_दिन_जीना
+more_time_live	अधिक_समय_जीना
+To be more	अधिक_होना
+most	अधिकाना
+to occupy	अधिकार_करना
+overlord	अधिपति_बनाना
+adhiana	अधियाना
+to subdue	अधीन_करना
+be subject to	अधीन_होना
+subjugation	अधीनना
+fall down	अधोगति_होना
+Study	अध्ययन_करना
+Anangana	अनंगना
+uncanna	अनकना
+Ankhna	अनखना
+Ankhana	अनखाना
+anagana	अनगाना
+Anna	अनना
+indifference	अनमनाना
+unmeal	अनमीलना
+Anarna	अनरना
+want to	अनवाँसना
+untold	अनसाना
+to disrespect	अनादर_करना
+anna	अनाना
+Ago	अनुकरण_करना
+To be suitable	अनुकूल_होना
+To follow	अनुगमन_करना
+To experience	अनुभव_करना
+experience	अनुभवना
+to feel	अनुभूति_होना
+To guess	अनुमान_करना
+love	अनुरागना
+worship	अनुराधना
+conform	अनुरूपना
+adapt	अनुलेपन_करना
+follow up	अनुवर्धन_करना
+research	अनुसंधानना
+research	अनुसन्धानना
+follow	अनुसरना
+to obey	अनुहरना
+adore	अनुहारना
+unsaid	अनैसना
+produce food	अन्न_उपजाना
+Anhwana	अन्हवाना
+Anhana	अन्हाना
+tear up	अपडरना
+adopt	अपड़ाना
+adopt	अपनाना
+To insult	अपमान_करना
+humiliation	अपमान_सहना
+humiliate	अपमानना
+To insult	अपमानित_करना
+confess to guilt	अपराध_कबूलना
+commit a crime	अपराध_करना
+guilt	अपराध_मानना
+to make acquitted	अपराध_मुक्त_करना
+confess to	अपराध_स्वीकार_करना
+waste away	अपव्यय_करना
+abusing	अपशब्द_कहना
+Upasavana	अपसवना
+sorry	अपसोसना
+to kidnap	अपहरण_करना
+kidnapping	अपहरना
+refraction	अपावर्तन
+Appeal	अपील_करना
+unread	अपूठना
+To expect	अपेक्षा_करना
+to expect	अपेक्षा_रखना
+to resent	अप्रसन्न_होना
+unpleasant feeling	अप्रिय_लगना
+afarna	अफरना
+afarwana	अफरवाना
+Afrana	अफराना
+be sorry	अफसोस_करना
+to regret	अफ़सोस_करना
+now	अबेर_होना
+Abhaya	अभया
+to be aware	अभिज्ञ_होना
+to act	अभिनय_करना
+to invite	अभिमंत्रण_करना
+to invite	अभिमंत्रित_करना
+to take pride in	अभिमान_करना
+pride	अभिमान_प्रदर्शन_करना
+to be proud	अभिमानपूर्ण_होना
+to glorify	अभिमानित_करना
+to be proud	अभिमानित_होना
+Acting	अभिरना
+be interested	अभिरुचि_होना
+desire	अभिलाषा_होना
+to express	अभिव्यंजना_करना
+Express	अभिव्यक्त_करना
+express	अभिव्यक्ति_करना
+convergence	अभिसरना
+converge	अभिसारना
+Abhuana	अभुआना
+aberna	अभेरना
+get used to	अभ्यस्त_करना
+used to	अभ्यस्त_होना
+To exercise	अभ्यास_करना
+to practice	अभ्यास_करवाना
+practice	अभ्यास_कराना
+amana	अमाना
+to worship	अर्चना_करना
+earn	अर्जन_करना
+To earn	अर्जित_करना
+to explain	अर्थ_समझाना
+to be meaningful	अर्थपूर्ण_होना
+to offer	अर्पण_करना
+to be devoted	अर्पित_होना
+embellish	अलंकृत_करना
+Separate	अलग_करना
+separate_remove	अलग_निकालना
+separate	अलग_रक्षित_करना
+To keep separately	अलग_रखना
+To be separated	अलग_होना
+disassemble	अलगाना
+slug	अलसना
+slug	अलसाना
+to utter	अलाप_करना
+apologise	अलापना
+descended	अवतरित_होना
+Embody	अवतार_लेना
+demote	अवनत_करना
+decline	अवनति_होना
+be demoralized	अवनमित_होना
+to block	अवरुद्ध_करना
+choke off	अवरुद्ध_होना
+to block	अवरोध_करना
+To be dependent on	अवलंबित_होना
+absorb	अवशोषित_करना
+Lose the opportunity	अवसर_खोना
+illegal_dealing_to	अवैध_सौदा_करना
+Illegal_dealing_to	अवैधानिक_सौदा_करना
+to be incapacitated	अशक्त_होना
+shedding tears	अश्रु_बहना
+teardrop	अश्रुपात_होना
+to be dissatisfied	असंतुष्ट_होना
+to disengage	असक्त_करना
+lie	असत्य_बोलना
+to fail	असफल_होना
+effect	असर_करना
+to exist	अस्त_होना
+to disturb	अस्त-व्यस्त_करना
+be in touch	अस्तगत_होना
+remain unclear	अस्पष्ट_रहना
+get confused	अस्पष्ट_होना
+reject	अस्वीकार_करना
+to be important	अहम_होना
+dripping	आ_टपकना
+bully	आ_धमकना
+arrive	आ_पहुँचना
+evaluate	आँकना
+eye opening	आँख_खोलना
+wink	आँख_तरेरना
+To threaten someone	आँख_दिखाना
+Cheating someone	आँखों_में_धूल_झोंकना
+Anjana	आँजना
+tears_dripping	आँसू_टपकना
+tears	आँसू_बहना
+tears	आँसू_बहाना
+Anjana	आंजना
+to attract	आकर्षित_करना
+get attracted	आकर्षित_होना
+shape up	आकार_देना
+shape_size	आकार_लेना
+to attract	आकृष्ट_करना
+to attack	आक्रमण_करना
+attack	आक्रमण_होना
+hunt	आखेट_करना
+setting fire	आग_लगाना
+to be furious	आग-बगूला_होना
+lose one's temper	आग-बबूला_होना
+tip off	आगाह_करना
+To move on	आगे_बढ़ना
+to do	आचमन_करना
+do today	आज_कल_करना
+to try	आजमाना
+to try	आज़माना
+set free	आज़ाद_करना
+to be free	आज़ाद_होना
+set free	आजाद_करना
+to be free	आजाद_होना
+to command	आज्ञा_करना
+order	आज्ञा_देना
+obey	आज्ञा_पालन_करना
+be terrified	आतंकित_होना
+eager to	आतुर_होना
+self sacrifice	आत्मबलि_देना
+forgetfulness	आत्मविस्मृत_होना
+self-sacrifice	आत्मोत्सर्ग_करना
+habituate	आदत_डालना
+habit-keeping	आदत_पालना
+To respect	आदर_करना
+Command	आदेश_देना
+half do	आधा_करना
+to submit	आधीन_करना
+to be subject to	आधीन_होना
+to enjoy	आनंद_ध्वनि_करना
+pleasurable_make	आनंददायक_बनाना
+to rejoice	आनंदित_करना
+make fun	आनन्ददायक_बनाना
+make fun	आनन्दप्रद_बनाना
+To come	आना
+perform operation	आपरेशन_करना
+to offer	आफर_करना
+Make it populated	आबाद_करना
+to be inhabited	आबाद_होना
+to have fun	आमोद-प्रमोद_करना
+To start	आरंभ_करना
+to begin	आरंभ_होना
+to reserve	आरक्षित_करना
+to start	आरम्भ_करना
+jigsaw ride	आरा_चलाना
+to pray	आराधना_करना
+to be mounted	आरोहित_होना
+to pray	आर्तनाद_करना
+To dampen	आर्द्र_करना
+hugging	आलन_लगाना
+lazing around	आलस्य_करना
+pressed up	आलिंगन_करना
+to apply	आलेप_करना
+to cover	आलेपित_करना
+to be covered	आलेपित_होना
+light up	आलोक_बढ़ाना
+to be illuminated	आलोकित_होना
+need_to be	आवश्यकता_होना
+voice	आवाज_करना
+To call	आवाज_देना
+make sound	आवाज़_करना
+voice	आवाज़_देना
+vagrant	आवारागर्दी_करना
+housing_dena	आवास_देना
+to invent	आविष्कार_करना
+invent	आविष्कृत_करना
+Expect	आशा_करना
+to be surprised	आश्चर्य_होना
+to be surprised	आश्चर्यचकित_होना
+lies on	आश्रित_होना
+has a crush	आसक्त_होना
+take a seat	आसन_ग्रहण_करना
+take a seat	आसन_लेना
+distillation	आसवन_करना
+sit down	आसीन_करना
+sedentary	आसीन_होना
+sigh	आह_भरना
+ah-ah-do	आह-आह_करना
+make happy	आह्लादक_बनाना
+inch	इंचना
+inject_inject	इंजैकश्न_लगाना
+to arrange	इंतजाम_करना
+to pile up	इकट्ठा_करना
+team back	इकठ्ठा_होना
+having desire	इच्छा_होना
+flaunt	इठलाना
+flaunt	इतराना
+intention to be	इरादा_होना
+Treatment	इलाज_करना
+to use	इस्तेमाल_करना
+invent	ईज़ाद_करना
+invent	ईजाद_करना
+Begrudge	ईर्ष्या_करना
+finger raise	उँगली_उठाना
+to pour out	उँडलना
+to pour out	उँडलवाना
+pour out	उँडेलना
+elevate	उंचना
+uabkai_ana	उअबकाई_आना
+wear out	उकताना
+to provoke	उकसवाना
+Provoke	उकसाना
+engrave	उकेरना
+crumble	उखड़ना
+crumble	उखड़ना-पुखड़ना
+Extirpate	उखाड़ना
+grow	उगना
+to spew	उगलना
+grow up	उगहना
+grow	उगाना
+collect	उगाहना
+incident	उघटना
+expose	उघारना
+Shrug	उचकना
+shrug	उचकाना
+crumble	उचड़ना
+exfoliate	उचाड़ना
+to treat	उचारना
+to pronounce	उच्चारण_करना
+to pronounce	उच्चारना
+to jump	उछल-कूद_करना
+bouncing off	उछलना
+to jump	उछलवाना
+take off	उछारना
+bounce	उछाल_मारना
+toss	उछालना
+explode	उजड़ना
+to blow up	उजड़वाना
+devastate	उजाड़_देना
+to devastate	उजाड़ना
+gleam	उझकना
+Rise	उठना
+pick up	उठवा_लेना
+pick up	उठवाना
+Raise	उठाना
+To fly	उड़_जाना
+flying touch	उड़न-छू_होना
+fly away	उड़नछू_होना
+Fly	उड़ना
+fly	उड़लना
+to blow up	उड़लवाना
+to fly	उड़वाना
+to blow out	उड़ा_देना
+take off	उड़ा_लेना
+take off	उड़ान_भरना
+blow up	उड़ाना
+pour out	उड़ेलना
+to inflate	उढ़काना
+get off	उढ़रना
+take off	उढ़रवाना
+blow up	उढ़ाना
+unload	उढ़ारना
+Alight	उतरना
+take off	उतराना
+Unload	उतारना
+get off	उतारू_होना
+to be hasty	उतावला_होना
+Inscribe	उत्कीर्ण_करना
+give answer	उत्तर_देना
+answer out	उत्तर_निकलना
+answer_tell	उत्तर_बताना
+to pass	उत्तीर्ण_होना
+Provoke	उत्तेजित_करना
+get excited	उत्तेजित_होना
+To produce	उत्पन्न_करना
+To be generated	उत्पन्न_होना
+to produce	उत्पादन_करना
+persecution	उत्पीड़न_सहना
+to harass	उत्पीड़ित_करना
+celebrating festival	उत्सव_मनाना
+to rise	उदय_होना
+sad	उदास_होना
+to rise	उदित_होना
+to provoke	उद्दीपन_करना
+deliver	उद्धार_करना
+salvation	उद्धार_पाना
+to venture	उद्यम_करना
+be disturbed	उद्विग्न_होना
+fly away	उधड़ना
+unfold	उधेड़ना
+Unchanna	उनचना
+advanced	उन्नत_होना
+to progress	उन्नति_करना
+expel	उन्मीलना
+the unleashed	उन्मुक्त_करना
+to be free	उन्मुक्त_होना
+produce	उपजना
+to produce	उपजाना
+consume	उपभोग_करना
+To use	उपयोग_करना
+use_in_come	उपयोग_में_आना
+be used	उपयोग_होना
+make available	उपलब्ध_करना
+To present	उपस्थित_करना
+giving presents	उपहार_देना
+scoff at	उपहास_करना
+upgradation	उपाटना
+to worship	उपासना_करना
+To Ignore	उपेक्षा_करना
+neglect	उपेक्षित_करना
+Keck	उबकना
+boil	उबना
+recover	उबरना
+to boil	उबलना
+to boil	उबालना
+protrude	उभड़वाना
+Emerge	उभरना
+bulge	उभाड़ना
+rise up	उमगना
+thickening	उमड़ना
+wheezing	उमेठना
+bulge	उमेड़ना
+expect for	उम्मीद_करना
+swindle	उलछना
+entangle	उलझना
+entangle	उलझाना
+keel over	उलटना
+rebuke	उलिचना
+rebuke	उलीचना
+vomit	उल्टी_करना
+to make a fool of	उल्लू_बनाना
+get it done	उसकवाना
+her	उसकाना
+to sleep	ऊँघना
+to be tall	ऊँचा_होना
+jump up	ऊपर_उछालना
+to be up	ऊपर_होना
+get bored	ऊबना
+gang up	एक_होना
+unity	एकता_होना
+whip up	एकत्र_करना
+Flock together	एकत्र_होना
+to collect	एकत्रित_करना
+to gather	एकत्रित_होना
+to add	एड़_करना
+add	एड़_लगाना
+twitch	ऐंठना
+ongna	ओंगना
+okna	ओकना
+gin	ओटना
+to wear	ओढ़ना
+to put on	ओढ़वाना
+dress up	ओढ़ाना
+open_do	ओपन_करना
+dew	ओसाना
+Aungna	औंगना
+accompanies	औंटना
+auntwana	औंटवाना
+antana	औंटाना
+invert	औंधना
+and_do_good_to	और_अच्छा_करना
+and_make_good_make	और_अच्छा_बनाना
+average	औसना
+average	औसाना
+to shine	कँधियाना
+tremble	कँपना
+tremble	कँपाना
+vibrate	कंपन_होना
+stagger	कंपित_होना
+chuckle	कचकचाना
+chuckle	कचकना
+vex	कचोटना
+cut-off	कटकटाना
+to cut	कटना
+to harvest	कटाई_करना
+sarcasm	कटाक्ष_करना
+to cut	कटौती_करना
+difficulty	कठियाना
+throbbing	कड़कड़ाना
+to embroider	कढ़ाई_करना
+tapering off	कतरना
+to move	कदमताल_करना
+grate	कद्दुकस_करना
+shroud	कफनाना
+shroud	कफ़नाना
+To capture	कब्ज़ा_करना
+to capture	कब्जा_करना
+take possession	कब्जे_में_लेना
+discount	कम_करना
+being less	कम_होना
+earn	कमवाना
+tanning	कमाना
+to decrease	कमी_करना
+to pay	कर_देना
+to do	करकना
+Doing	करना
+get it done	करवाना
+to do	कराना
+to contract	करार_करना
+moan	कराहना
+blow on	कलंकित_करना
+imagine	कलपना
+pen	कलम_करना
+tweet	कलरव_करना
+to quarrel	कलह_करना
+art show	कला_दिखाना
+art exhibit	कला_प्रदर्शित_करना
+buds	कलियाना
+bud out	कली_निकलना
+to imagine	कल्पना_करना
+suffer	कष्ट_झेलना
+give pain	कष्ट_देना
+to suffer	कष्ट_सहना
+to tighten	कसकना
+constrict	कसना
+swear	कसमसाना
+get exercise	कसरत_करवाना
+workout	कसरत_कराना
+To put to test	कसौटी_पर_कसना
+custom_do	कस्टयूम_करना
+Tell	कहना
+to be called	कहलवाना
+to be called	कहलाना
+where to do	कहा_करना
+take possession	क़ब्ज़ा_करना
+take possession	क़ब्ज़े_में_लेना
+pen	क़लम_करना
+pen_shuffle	क़लम_घसीटना
+to remove	क़सर_निकालना
+to imprison	क़ैद_करना
+aching	काँखना
+tremble	काँपना
+Kachana	काछना
+Cutting	काटना
+to cast	काढ़ना
+spin	कातना
+Let me whisper in your ear	कानाफूसी_करना
+able to	काबिल_करना
+to work	काम_करना
+get the job done	काम_करवाना
+get the job done	काम_कराना
+work	काम_देना
+to work	काम_न_करना
+cause_to be	कारण_होना
+to work	कार्य_करना
+program_make	कार्यक्रम_बनाना
+time measurement	काल_मापना
+peep	किकियाना
+squabble	किचकिच_करना
+hesitant	किचकिचाना
+kitkitana	किटकिटाना
+to ferment	किण्वन_कराना
+edge_make	किनारी_बनाना
+be on edge	किनारे_पर_होना
+on rent	किराए_पर_लेना
+to shout	किलकारना
+kilkari_marna	किलकारी_मारना
+howling	किलकिलाना
+kibble	किलबिलाना
+kiss	किसना
+any_some_way_to_do	किसी_भी_तरह_से_करना
+Kickna	कीकना
+chanting	कीर्तन_करना
+Kissing	कीसना
+Crush	कुचलना
+to crush	कुचलवाना
+throttle	कुचलाना
+to bite	कुटना
+grunt	कुटाई_करना
+grunt	कुटाई_होना
+grumble	कुढ़ना
+nibble	कुतरना
+to nip	कुदवाना
+spade	कुदाना
+to be angry	कुपित_होना
+cuppa_hona	कुप्पा_होना
+wither	कुम्हलाना
+to scrape	कुरेदना
+Kurelna	कुरेलना
+to sacrifice	कुर्बान_होना
+fidget	कुलबुलाना
+to write down	कुलेखन_करना
+wrestling	कुश्ती_करना
+wrestling_fighting	कुश्ती_लड़ना
+wrestle	कुश्तीबाज़ी_करना
+whisper	कुहकना
+whisper	कुहकुहाना
+to do	कू-कू_करना
+cook	कूकना
+kick	कूचना
+tamp	कूटना
+biting	कूतना
+jumps out	कूद_पड़ना
+jump over	कूद-फाँद_करना
+to jump	कूदना
+jump over	कूदफाँद_करना
+farming	कृषि_करना
+cultivable	कृषि_योग्य_बनाना
+to bake	केंकना
+cake	केकना
+to do	कै_करना
+how_to_do	कैसे_भी_करना
+impinge	कोंचना
+to whip	कोड़ना
+whipping	कोड़वाना
+to whip	कोड़ाना
+cursing	कोसना
+kauri_karna	कौरी_करना
+cry out	क्रंदन_करना
+Buying	क्रय_करना
+To play	क्रीड़ा_करना
+to anger	क्रुद्ध_करना
+To be angry	क्रुद्ध_होना
+Get angry	क्रोध_करना
+blow mind	क्रोध_दिलाना
+to annoy	क्रोधित_करना
+Be angry	क्रोधित_होना
+be tired	क्लांत_होना
+quench	क्वेंच_करना
+quench	क्वेन्च_करना
+To compensate	क्षतिपूर्ति_करना
+pardon	क्षमा_करना
+to forgive	क्षमा_करवाना
+to apologize	क्षमा_कराना
+pardon	क्षमा_देना
+decay	क्षय_करना
+To become weak	क्षीण_होना
+emaciated	क्षीणकाय_होना
+explore	खँगारना
+check out	खँगालना
+look up	खँघारना
+Swill	खंगालना
+to refute	खंडन_करना
+be broken	खंडित_होना
+Khakharna	खखारना
+Knock	खटकना
+tap on	खटखटाना
+girdle	खटना
+cradle	खटाना
+to rattle	खड़खड़ाना
+to stand	खड़ा_होना
+to finish	खतम_करना
+to be finished	खतम_होना
+to risk	खतरे_में_डालना
+to finish	खत्म_करना
+To finish	खत्म_होना
+fiddle	खदबदाना
+repulse	खदेड़ना
+mining	खनना
+clothe_se_chhana	खपड़े_से_छाना
+consume	खपना
+consume	खपाना
+to be upset	खफ़ा_होना
+writing	खरचना
+To come out clean	खरा_उतरना
+lathe	खरादना
+Damage	खराब_करना
+Spoilage	खराब_होना
+Purchase	खरीदना
+to buy	खरीदवाना
+scratch	खरोंचना
+scratch	खरोचना
+To spend	खर्च_करना
+to spend	खर्च_होना
+to snore	खर्राटा_लेना
+Khalna	खलना
+slip	खसकना
+move	खसकाना
+cradle	खसोटना
+to finish	ख़तम_होना
+Finished	ख़त्म_होना
+beware	ख़बरदार_करना
+To deteriorate	ख़राब_होना
+to destroy	ख़ाक_करना
+To search with a fine-tooth comb	ख़ाक_छानना
+to impress	ख़ुश_करना
+blood_sweat_a_to_make	ख़ून_पसीना_एक_करना
+cough	खाँसना
+cough	खांसना
+Eat	खाना
+to feed	खाना_खिलाना
+cooking	खाना_पकाना
+to Cook	खाना_बनाना
+to pull	खिंच_जाना
+stretch	खिंचना
+to pull	खिंचवाना
+to pull	खिंचाना
+to pull	खिचवाना
+to pull	खिचाना
+annoy	खिजना
+to annoy	खिजलाना
+to annoy	खिजाना
+to bloom	खिल_खिल_करना
+to laugh	खिलखिलाना
+blossom	खिलना
+to feed	खिलवाना
+feed	खिलाना
+ridicule	खिल्ली_उड़ाना
+Shift	खिसक_जाना
+to slide	खिसकना
+to move	खिसकाना
+Pull	खींचना
+pull	खीचना
+to annoy	खीजना
+itching	खुजलाना
+itching	खुजली_होना
+scratch	खुजाना
+own	खुदना
+to dig	खुदवाना
+dig up	खुदाई_करना
+inscribed	खुदाना
+corrode	खुरचना
+scrape	खुरपिआना
+khurpiana	खुर्पिआना
+khurpiana	खुर्पियाना
+coming undone	खुल_जाना
+to open	खुलना
+to open	खुलवाना
+make happy	खुशनुमा_बनाना
+jump happily	खुशी_से_उछलना
+happily dance	खुशी_से_नाचना
+happily bloom	खुशी_से_फूलना
+cultivable	खेती_योग्य_बनाना
+to spit	खेना
+to play	खेलना
+to play	खेलवाना
+to play	खेलाना
+get lost	खो_जाना
+lost	खो_देना
+to dig	खोंचना
+to dig	खोंसना
+to discover	खोज_करना
+search out	खोज_निकालना
+to search	खोजना
+to find	खोजवाना
+dig up	खोद-खाद_करना
+Dig	खोदना
+to dig	खोदवाना
+dig up	खोदाना
+lose	खोना
+to open	खोलना
+to unwrap	खोलवाना
+erupting	खौलना
+stir	खौलाना
+to lose	गँवाना
+dirty_write	गंदा_लिखना
+smell	गंध_लेना
+to lose	गंवाना
+Gulp	गटकना
+constitute	गठना
+thump	गड़कना
+rumble	गड़गड़ाना
+burrow	गड़ना
+mess up	गड़बड़ाना
+to bury	गड़ाना
+to bury	गड़ोना
+fabricate	गढ़ना
+to forge	गढ़वाना
+to fabricate	गढ़ाना
+deadlock	गतिरुद्ध_होना
+accelerate	गत्वरित_करना
+spit	गमकना
+To exit	गमन_करना
+howling	गरजना
+Garbhana	गरभाना
+Heating	गरम_करना
+to be hot	गरम_होना
+warm ups	गरमाना
+growl	गरराना
+garland	गरियाना
+garuana	गरुआना
+conceive	गर्भाना
+heating up	गर्माना
+Pride	गर्व_करना
+to be proud	गर्वित_होना
+make a mistake	गलती_करना
+melt	गलना
+Hug	गले_मिलना
+to hug	गले_लगाना
+give up	गवाँ_देना
+muck up	गवां_देना
+jewel	गहना
+to fathom	गहराई_नापना
+depth measurement	गहराई_मापना
+disappear	ग़ायब_होना
+illegally	ग़ैरकानूनी_सौदा_करना
+to bury	गाड़ना
+Condense	गाढ़ा_करना
+thicken	गाढ़ा_होना
+Song	गाना
+To vanish	गायब_होना
+Garna	गारना
+Abuse	गाली_देना
+abuse	गाली_बकना
+throttle	गाहना
+to count	गिंजना
+to plead	गिड़गिड़ाना
+to count	गिनती_करना
+to count	गिनना
+to count	गिनवाना
+to count	गिनाना
+slump down	गिर_पड़ना
+Fall	गिरना
+to arrest	गिरफ्तार_करना
+to surrender	गिरवा_देना
+to drop	गिरवाना
+to drop	गिरा_देना
+to drop	गिराना
+to whine	गींजना
+go bald	गींजा_जाना
+To get wet	गीला_करना
+buzzing	गुँजना
+knead	गुँथना
+to weave	गुँथवाना
+knead	गुँधना
+kneading	गुँधवाना
+hum	गुंजना
+to hum	गुंजारना
+knead	गुंथना
+to knit	गुंधना
+to pass on	गुजरना
+to go past	गुज़रना
+to pass	गुज़ारना
+to pass	गुजारना
+grumble	गुड़गुड़ाना
+quilling	गुथना
+quilling	गुथवाना
+tickle	गुदगुदाना
+to tickle	गुदगुदी_करना
+humming	गुनगुनाना
+Hide	गुप्त_रखना
+Misplace	गुम_होना
+missing	गुमना
+growl	गुर्राना
+to make angry	गुस्सा_दिलाना
+to plead	गुहार_करना
+to plead	गुहार_लगाना
+to plead	गुहारना
+echo	गूँजना
+knead	गूँथना
+to knead	गूँधना
+resonate	गूंजना
+knead	गूंथना
+kneading	गूंधना
+kneading	गूथना
+illegal _dealing_to	गैरकानूनी_सौदा_करना
+tattooing	गोड़ना
+Godwana	गोड़वाना
+weeding	गोड़ाना
+tattooing	गोदना
+tattooing	गोदवाना
+tattooing	गोदाना
+keep secret	गोपन_रखना
+goliana	गोलियाना
+cowering	गोहार_लगाना
+groan	ग्रसना
+To receive	ग्रहण_करना
+eclipse	ग्रहण_लगना
+Grass_lagna	ग्रास_लगना
+accident	घटना
+subtract	घटान_करना
+Reduce	घटाना
+to come about	घटित_होना
+rattle	घड़घड़ना
+ghastly	घतियाना
+panic	घबड़ाना
+Tremble	घबराना
+home_dena	घर_देना
+household	घरघराना
+whine	घर्भाना
+household	घर्रघराना
+shuffle	घसकाना
+a drag	घसीटना
+incur losses	घाटा_उठाना
+lie in wait	घात_में_बैठना
+To ambush	घात_लगाना
+rubbish	घिघियाना
+thicken	घिरना
+to rub	घिसकाना
+to wiggle	घिसटना
+rub	घिसना
+to rub	घिसवाना
+Ghee_ghee_karna	घीं_घीं_करना
+Surrender	घुटने_टेकना
+swirl	घुड़कना
+to turn	घुड़की_देना
+spin	घुमा_देना
+rotate	घुमाना
+grunt	घुरघुराना
+grunt	घुर्रघुराना
+dissolve	घुलना
+to enter	घुसना
+to penetrate	घुसाना
+to penetrate	घुसेड़ना
+Wandering	घूमना
+To roam around	घूमना-फिरना
+to roam	घूमाना-फिराना
+Stare	घूरना
+to rotate	घूर्णित_होना
+encircle	घेरना
+to encircle	घेरवाना
+encircle	घेराना
+choke	घोंटना
+to stab	घोंपना
+throttle	घोटना
+to grumble	घोरना
+to mix	घोलना
+to pounce	चँपना
+heal	चंगा_बनाना
+be healed	चंगा_होना
+Chanchanana	चंचनाना
+To run away with all valuables	चंपत_होना
+dazzle	चकपकाना
+Spoof	चकमा_देना
+dizzy	चकराना
+Getting surprised	चकित_होना
+Circle	चक्कर_काटना
+to feel dizzy	चक्कर_खाना
+to spin	चक्कर_लगवाना
+Take around	चक्कर_लगाना
+Taste	चखना
+crack	चटकना
+lick	चटाना
+climb up	चढ़_जाना
+to climb	चढ़ना
+to offer	चढ़वाना
+climbing out	चढ़ाई_करना
+plating	चढ़ाना
+Channa	चनकना
+stick	चपकाना
+to chew	चपना
+chaparna	चपरना
+hit	चपेटना
+chew	चबकना
+chew food	चबाकर_खाना
+to chew	चबाना
+shine	चमकना
+to shine	चमकाना
+to shine	चमचमाना
+make a splash	चमाचम_करना
+to select	चयन_करना
+graze	चरचराना
+graze	चरना
+to graze_to_leave	चरने_के_लिए_छोड़ना
+to graze	चरने_हेतु_छोड़ना
+creak	चरमराना
+shepherd	चरवाना
+graze	चराना
+to be realized	चरितार्थ_होना
+graze	चर्राना
+To pass away	चल_बसना
+to walk	चलता_बनना
+to walk	चलना
+let go	चलने_देना
+to drive	चलवाना
+Set off	चला_जाना
+Run	चलाना
+gnaw	चसकना
+chirp	चहकना
+twitter	चहचहाना
+to bite	चाँपना
+chalk	चाक_करना
+to brush	चाकना
+to lick	चाटना
+to bite	चापना
+chew	चाबना
+Give the key	चाबी_देना
+drive	चालना
+drive	चालित_करना
+to start	चालू_करना
+start up	चालू_होना
+want to	चाहत_होना
+to like	चाहना
+trumpet	चिंघाड़ना
+To worry	चिंता_करना
+medical treatment	चिकित्सा_करना
+twitch	चिकोटना
+To pinch	चिकोटी_काटना
+sparkle	चिखुरना
+to snap	चिटकना
+irritating	चिड़चिड़ाना
+tease	चिढ़कना
+tease	चिढ़काना
+tease	चिढ़ना
+tease	चिढ़वाना
+Tease	चिढ़ाना
+to chime in	चित_करना
+to warn	चिताना
+to warn	चितावनी_देना
+To draw a painting	चित्र_बनाना
+to photograph	चित्रांकन_करना
+to illustrate	चित्रित_करना
+China	चिनाना
+to cling	चिपकना
+Paste	चिपकाना
+chewing	चिबलाना
+screaming	चिलकना
+scream	चिलवाना
+to shout	चिल्लवाना
+Shout	चिल्लाना
+whine	चिहुँकना
+chirping	चिहुँटना
+screaming	चीखना
+chinhna	चीन्हना
+chinahana	चीन्हाना
+rip off	चीरना
+rip off	चीरवाना
+kiss	चुंबन_लेना
+kiss	चुंबना
+chuana	चुआना
+pay off	चुकता_करना
+miss	चुकना
+to repay	चुकवाना
+repay	चुकाना
+pick up	चुगना
+rat out	चुगली_करना
+chugli_khana	चुगली_खाना
+snuggle up	चुगली_जड़ना
+chuckle	चुग़ली_करना
+chugli_khana	चुग़ली_खाना
+to pay	चुगाना
+chug_lena	चुग्गा_लेना
+pinch out	चुटकी_काटना
+Making fun of	चुटकी_लेना
+to choose	चुनचुनाना
+picket_delwana	चुनट_डलवाना
+select_insert	चुनट_डालना
+pick up	चुनन_डलवाना
+select_put	चुनन_डालना
+to select	चुनना
+to elect	चुनवाना
+choose	चुनाना
+To choose	चुनाव_करना
+to challenge	चुनौती_देना
+picket_delwana	चुन्नट_डलवाना
+select_insert	चुन्नट_डालना
+to be silent	चुप_होना
+shut up	चुपड़ना
+to chew	चुबलाना
+prick	चुभना
+to prick	चुभलाना
+pinching off	चुभाना
+to kiss	चुमकारना
+kiss	चुम्मा_लेना
+peck	चुरकना
+churn	चुरचुराना
+to steal	चुरना
+prick	चुरमुराना
+to steal	चुरवाना
+to steal	चुरा_लेना
+steal	चुराना
+suck	चुसना
+miss	चूक_जाना
+miss	चूकना
+Lime	चूना
+kiss	चूमना
+pulverize	चूरना
+suck	चूसना
+sucked	चूसा_जाना
+check_cash	चेक_भुनना
+check_cash	चेक_भुनवाना
+check cashing	चेक_भुनाना
+alert	चेताना
+to warn	चेतावनी_देना
+to tease	चोचले_करना
+bang	चोदना
+to steal	चोरी_करना
+startled	चौंकना
+to dazzle	चौंधियाना
+To run here and there very fast	चौकड़ी_भरना
+square off	चौकोर_करना
+square_make	चौकोर_बनाना
+To ruin	चौपट_करना
+quadruple	चौपट_होना
+chauffal_jumping	चौफाल_कूदना
+sort out	छँट_जाना
+sort out	छँटना
+sort out	छँटवाना
+sort	छँटाना
+cut off	छंटवाना
+lay off	छटनी_करना
+sobbing	छटपटाना
+roofing	छत_बनाना
+filter	छनना
+to filter	छनवाना
+filter	छनाई_करना
+filter	छनाना
+print	छपना
+to print	छपवाना
+print	छपाना
+deceive	छल_करना
+jump off	छलँगवाना
+spill	छलकना
+spill	छलकाना
+trick	छलछलाना
+trick	छलना
+jump	छलाँग_मारना
+to jump	छलाँग_लगवाना
+jump up	छलाँग_लगाना
+to jump	छलाँगना
+sort out	छाँट_देना
+sort	छाँटना
+sort out	छाँदना
+Excision	छांटना
+Filtrate	छानना
+filter	छाना
+print	छापना
+to bark	छालना
+to spill	छिटकना
+sprinkle	छिड़कना
+to sprinkle	छिड़कवाना
+sprinkle	छिड़काना
+to spray	छिड़काव_करना
+to sprinkle	छिड़ना
+disperse	छितराना
+snatch	छिनना
+break off	छिन्न_होना
+hide	छिपना
+to conceal	छिपाना
+sneezing	छींकना
+splatter	छींटना
+Snatch	छीनना
+peeling	छीलना
+to touch	छुआना
+chuckle	छुक-छुक_करना
+chuckle	छुकछुकाना
+leave_on_stay	छुट्टी_पर_रहना
+to celebrate	छुट्टी_मनाना
+leave_kill	छुट्टी_मारना
+to get rid of	छुड़वाना
+get rid of	छुड़ाना
+hide	छुपना
+hide	छुपाना
+to expel	छुलाना
+to touch	छुवाना
+to touch	छू-मंतर_होना
+Has Been left	छूट_जाना
+release	छूटना
+To touch	छूना
+to be missing	छूमंतर_होना
+squeezing	छेकना
+tease	छेड़-छाड़_करना
+tamper with	छेड़खानी_करना
+tamper	छेड़छाड़_करना
+teasing	छेड़ना
+To Pierce	छेद_करना
+Perforate	छेदना
+Leave	छोड़_देना
+Relieve	छोड़ना
+to leave	छोड़वाना
+release	छोड़ाना
+to pluck	छोलना
+to throw	छौंकना
+to suit	जँचना
+to get checked	जँचवाना
+get rid of	जँतवाना
+wear	जँताना
+yawn	जँभाई_लेना
+yawn	जँभाना
+Jantwana	जंतवाना
+jantana	जंताना
+Fasten	जकड़ना
+wake up	जगजगाना
+wake up	जगना
+to sparkle	जगमगाना
+to wake up	जगवाना
+wake up	जगाना
+inlay	जड़ना
+Jallana	जतलाना
+to show	जतवाना
+to express	जताना
+give birth	जनना
+public opinion	जनमना
+public opinion	जनमाना
+to know	जनाना
+give birth	जन्म_देना
+See the light	जन्म_लेना
+give birth	जन्माना
+Chanting	जपना
+give a speech	जबान_देना
+solidify	जमना
+To Add	जमा_करना
+To assemble	जमा_होना
+Solidification	जमाना
+need_to be	जरूरत_होना
+get burned	जल_जाना
+Burn	जलना
+to burn	जलवाना
+kindle	जलाना
+being young	जवान_होना
+to answer	जवाब_देना
+Poison_ka_sip_drinking	जहर_का_घूंट_पीना
+tongue twitching	ज़बान_लड़खड़ाना
+ground_sky_one_karna	ज़मीन_आसमान_एक_करना
+answer	ज़वाब_देना
+insist	ज़िद_करना
+to drip	जा_टपकना
+bully	जा_धमकना
+to reach	जा_पहुँचना
+to test	जाँच_करना
+check_out	जाँच_निकलना
+to investigate	जाँच_पड़ताल_करना
+check	जाँचना
+check out	जाँचा_जाना
+to check	जाँतना
+to know	जांतना
+Wake up	जागना
+to know	जातना
+to breathe	जान_फूँकना
+to kill	जान_लुटाना
+information_view	जानकारी_बघारना
+Know	जानना
+Go	जाना
+To chant	जाप_करना
+to issue	जारी_करना
+to continue	जारी_रहना
+to release	जारी_होना
+trap_to_catch	जाल_से_पकड़ना
+to live	जिंदा_करना
+jianna	जिआना
+To insist	जिद_करना
+mingle	जिलमिल_करना
+Jillwana	जिलवाना
+to unite	जिलाना
+g_stealing	जी_चुराना
+Getting nausea	जी-मिचलाना
+win	जीतना
+Live	जीना
+Jimna	जीमना
+gimana	जीमाना
+to live	जीवन_बिताना
+make a living	जीवन_यापन_करना
+live	जीवाना
+make living	जीवित_करना
+keep alive	जीवित_रखना
+staying alive	जीवित_रहना
+To gamble	जुआ_खेलना
+gamble	जुआ_पहनाना
+gambling	जुआठना
+Jukhna	जुखना
+to rattle	जुगजुगाना
+to chew	जुगालना
+chew the cud	जुगाली_करना
+to fight	जुझवाना
+Coherence	जुटना
+mobilize	जुटाना
+pick up	जुठारना
+pick up	जुठालना
+ties up	जुड़ना
+match up	जुतना
+to plow	जुतवाना
+to plow	जुताई_करना
+pick up	जुतियाना
+to put on	जुते_लगाना
+crime_iqbal_karna	जुर्म_इक़बाल_करना
+gamble	जूआ_खेलना
+battling	जूझना
+put on	जूठा_करना
+to judge	जोखना
+to risk	जोखवाना
+add up	जोड़_करना
+Add	जोड़ना
+plowing	जोतना
+to plow	जोतवाना
+vigorous_water_fall	जोरदार_पानी_गिरना
+vigorous_water_raining	जोरदार_पानी_बरसना
+heavy rain	जोरदार_बारिश_होना
+be known	ज्ञात_होना
+knowledge	ज्ञान_होना
+light up	ज्योति_बढ़ाना
+whisper	झँवराना
+whisper	झँवाना
+to tremble	झंकृत_होना
+quarrel	झगड़ना
+to quarrel	झगड़वाना
+quarrel	झगड़ा_करना
+quarrel	झगड़ाना
+jerk	झटकना
+jerk off	झटकवाना
+jerk	झटकाना
+jerk	झटकारना
+to fall	झड़ना
+tingle	झनकना
+tingle	झनझनाना
+blink	झपकना
+nap	झपकी_लेना
+pounce	झपटना
+blink	झमकना
+fret	झलझलाना
+swing	झलना
+Fret	झल्लाना
+peep	झाँकना
+swoon	झाँसना
+bluff	झाँसा_देना
+peek	झांकना
+bluff	झांसना
+to sweep	झाड़_फूँक_करना
+to sweep	झाड़_लगाना
+to dust	झाड़ना
+to sweep	झाड़ना-फूँकना
+sweep	झाड़ा_फिरना
+broom_dana	झाड़ू_देना
+to sweep	झाड़ू_लगाना
+waddle	झालना
+hesitate	झिझकना
+rebuke	झिड़कना
+give a sigh	झिड़की_देना
+flicker	झिलमिलाना
+annoy	झुँझलाना
+Bend	झुकना
+bow down	झुकवाना
+bow down	झुका_होना
+tilt	झुकाना
+inclined to	झुकाव_होना
+falsify	झुठलाना
+earring	झुमवाना
+bow down	झुरवाना
+wrinkle	झुरसना
+scorch	झुलवाना
+Singe	झुलसना
+Swing	झुलाना
+to dance	झूंमना
+to lie	झूठ_बोलना
+swinging	झूमना
+rocking	झूमाना
+swing	झूलना
+swing	झूलवाना
+swing	झूला_झूलना
+swing	झूलाना
+shy away	झेंप_जाना
+shrug	झेंपना
+endure	झेलना
+to blow	झोंकना
+to blow	झोंकवाना
+puff up	झोंके_खाना
+to scoff	झौंसना
+hammering	टँकना
+soldering	टँकवाना
+solder	टँकाई_करना
+hang up	टँगना
+hang up	टँगवाना
+to type	टंकण_करना
+tinker	टंकारना
+hang up	टंगना
+hang up	टंगवाना
+to collide	टकरवाना
+Collide	टकराना
+get hit	टक्कर_खाना
+bump into	टक्कर_लेना
+Tagharna	टघरना
+juggle	टघलना
+grope	टटोलना
+to tease	टट्टी_करना
+jumble	टनटनाना
+tap_tap_to	टप_टप_करना
+dripping	टपक_पड़ना
+drip	टपकना
+to instill	टपकाना
+shine	टमकना
+spin	टरकाना
+quiver	टरटराना
+tarna	टरना
+rattle	टर्रटर्राना
+torment	टर्राना
+avoid	टलना
+to postpone	टलवाना
+toss	टसकना
+retract	टसकाना
+sprig	टहकना
+walk	टहलना
+jogging	टहलाना
+brazing	टाँकना
+to meddle	टाँग_अड़ाना
+to hang	टाँगना
+to hang	टांगना
+tile_laying	टाइल_लगाना
+tile_to_chhana	टाइल_से_छाना
+Avert	टालना
+To evade	टालमटोल_करना
+to last	टिकना
+sustain	टिकाना
+shimmer	टिमटिमाना
+note	टीपना
+to tease	टीसना
+trump	टुँगना
+do pieces	टुकड़े_करना
+to break	टूँगना
+break	टूटना
+lay down	टेकना
+Takana	टेकाना
+crook	टेढ़ा_करना
+test_make	टेस्ट_कराना
+interrrupting	टोकना
+torna	टोरना
+torvana	टोरवाना
+reconnaissance	टोह_लेना
+reconnaissance	टोहना
+trek	ट्रेक_करना
+throttle	ठँसना
+chill out	ठंड़ा_पड़ना
+To cool	ठंडा_करना
+cooling down	ठंडाना
+jiggle	ठकठकाना
+fudge	ठगना
+swindle	ठगाना
+to mock	ठट्ठा_करना
+to mock	ठठ्ठा_करना
+shaking	ठनकना
+think	ठनना
+wind up	ठप्प_होना
+stamp	ठप्पा_लगाना
+Showing flamboyant	ठसक_दिखाना
+hit	ठसना
+stay	ठहरना
+to accommodate	ठहराना
+throttle	ठाँसना
+stifle	ठांसना
+decide	ठानना
+stutter	ठिठकना
+chill	ठिठरना
+Shiver	ठिठुरना
+to stay	ठिनकना
+ok come	ठीक_आना
+get off	ठीक_उतरना
+amend	ठीक_करना
+ok	ठीक_मान_लेना
+be well	ठीक_होना
+turn down	ठुकना
+turn down	ठुकराना
+to stoop	ठुनकना
+to dance	ठुमकना
+stifle	ठूँसना
+Tamp	ठूंसना
+to poke	ठूसना
+throttle	ठेंसना
+contract	ठेक_लगना
+hand over	ठेल_देना
+to push	ठेलना
+hurt	ठेसना
+to hit	ठोंकना
+knocking	ठोकना
+stumble	ठोकर_लगना
+to hit	ठोहना
+to bite	डँसना
+Sting	डंक_मारना
+sting	डंकना
+dankiana	डंकियाना
+belch	डकारना
+wobble	डगडोलना
+wobble	डगमगाना
+Bout	डटना
+pluck	डपटना
+dab	डबकना
+wobble	डबडबाना
+stutter	डभकना
+to scare	डभकवाना
+stutter	डभकाना
+Fear	डरना
+to be afraid	डरपना
+to scare	डरपाना
+to scare	डरवाना
+to scare	डराना
+dump	डलना
+bite	डसना
+stifle	डाँकना
+to scold	डाँटना
+rebuke	डाँटना-डपटना
+stifle	डांकना
+rebuke	डाटना
+Pour out	डालना
+cast_dana	डाली_देना
+Jealousy	डाह_करना
+Digna	डिगना
+Boast of	डींग_मारना
+brag	डींग_हाँकना
+rumble	डुगडुगाना
+dip	डुबाना
+dunk	डुबोना
+to bring	डुलवाना
+to move	डुलाना
+to drown	डूब_जाना
+Drown	डूबना
+to date	डेट_करना
+To encamp	डेरा_डालना
+swing	डोलना
+to stir	डोलवाना
+to shake	डोलाना
+to cover	ढँकना
+to cover	ढँकवाना
+to cover up	ढँपवाना
+to cover	ढकना
+cover up	ढकवाना
+push away	ढकेलना
+drumming	ढनमनाना
+to cover	ढरकना
+to cover	ढरकवाना
+cover up	ढरकाना
+stand	ढरना
+put up	ढरवाना
+to slip	ढलकना
+to cast	ढलकाना
+to cast	ढलना
+cast	ढलवाना
+Collapse	ढहना
+collapse	ढहवाना
+collapse	ढहाना
+to cover	ढाँकना
+to cover up	ढाँपना
+frame	ढाँसना
+consolation	ढाढ़स_बँधाना
+mold	ढाना
+Dharana	ढारना
+mold	ढालना
+collapse	ढाहना
+drop down	ढुकना
+slack off	ढुलकना
+sway	ढुलकाना
+loose	ढुलना
+to be carried	ढुलवाना
+carry	ढुलाना
+Finding	ढूँढना
+to find	ढूँढवाना
+find	ढूँढ़ना
+to find	ढूँढ़वाना
+Pile up	ढेर_लगाना
+tote	ढोना
+Tangiana	तँगियाना
+tambiana	तँबियाना
+Harass	तंग_करना
+tangiana	तंगियाना
+make fit	तंदुरुस्त_बनाना
+tambiana	तंबियाना
+Takna	तकना
+to quarrel	तकरार_करना
+to suffer	तक़लीफ़_उठाना
+make up	तक़सीम_करना
+to be picked up	तगवाना
+tag	तगाना
+tajna	तजना
+snapping	तड़कना
+temper	तड़का_देना
+tempering	तड़का_लगाना
+temper	तड़काना
+snapping	तड़तड़ाना
+to agonize	तड़पड़वाना
+torment	तड़पड़ाना
+torment	तड़पना
+to suffer	तड़पवाना
+torment	तड़पाना
+flutter	तड़फड़वाना
+flutter	तड़फड़ाना
+tafna	तड़फना
+delve into	तड़फवाना
+tafana	तड़फाना
+fact finding	तथ्यान्वेषण_करना
+stretch	तनना
+make fit	तन्दुरुस्त_बनाना
+Do penance	तप_करना
+heat up	तपना
+to do penance	तपस्या_करना
+heat up	तपाना
+heat up	तप्त_करना
+to be hot	तप्त_होना
+flashing	तमकना
+tatmana	तमतमाना
+to decide	तय_करना
+to be fixed	तय_होना
+To drench	तर_करना
+tarna	तरना
+longing	तरसना
+longing	तरसाना
+carve	तराशना
+argue	तर्क_वितर्क_करना
+Fry	तलना
+Talmalana	तलमलाना
+explore	तलशवाना
+divorce	तलाक़_देना
+seek	तलाशना
+be engrossed	तल्लीन_होना
+keep good	तशरीफ़_रखना
+Placate	तसल्ली_देना
+photo shoot	तसवीर_बनाना
+to fold	तह_करना
+stare_in_sit	ताक_में_बैठना
+pore	ताकना
+Tagna	तागना
+be surprised	ताज्जुब_होना
+chastise	ताड़ना
+to tone	तान_लगाना
+stretch	तानना
+warp up	ताना_मारना
+heating	तापना
+tarana	तारना
+to praise	तारीफ़_करना
+flaunt	तिखारना
+twitch	तिड़कना
+cross	तिरना
+twinkle	तिलमिलाना
+rhyme	तुक_जोड़ना
+rhyme	तुकबंदी_करना
+trumpet	तुकारना
+to break	तुड़वाना
+to break	तुड़ाना
+quiver	तुतराना
+lisp	तुतलाना
+trumpet	तुरपना
+trumpet	तुरपवाना
+trumpet	तुरपाना
+to weigh	तुलवाना
+frost fall	तुषार_गिरना
+frost	तुषार_पात_होना
+To indulge	तुष्ट_करना
+be satisfied	तुष्ट_होना
+you	तूमना
+to satisfy	तृप्त_करना
+to be satisfied	तृप्त_होना
+Tekhrana	तेखराना
+Make it ready	तैयार_करना
+get ready	तैयार_करवाना
+To get ready	तैयार_होना
+swimming	तैरना
+to swim	तैरवाना
+swim	तैराना
+to break	तोड़_देना
+Breaking	तोड़ना
+to break	तोड़वाना
+Totlana	तोतलाना
+cannon	तोपना
+cannon	तोपवाना
+torn	तोरना
+torwana	तोरवाना
+weigh	तोलना
+to weigh	तोलवाना
+toshana	तोषणा
+gift	तोहफा_देना
+to weigh	तौलना
+to weigh	तौलवाना
+to be weighed	तौला_जाना
+weigh	तौलाना
+to leave	त्याग_करना
+give up	त्यागना
+getting tired	थकना
+fatigue	थकान_उतारना
+relieve fatigue	थकान_मिटाना
+to tire	थकाना
+dab	थपकना
+dab	थपकाना
+dab	थपकी_देना
+to Pat	थपथपाना
+tap	थपाई_करना
+stop	थमना
+tremble	थरथराना
+tremble	थरहराना
+tremble	थर्राना
+to establish	थापना
+hold a	थामना
+Probe	थाह_लेना
+fathom	थाहना
+dancing	थिरकना
+to dance	थिरना
+through_to_do	थू_थू_करना
+impose	थोपना
+to suffocate	दग्ध_होना
+Danadana	दनदनाना
+Bury	दफनाना
+to bury	दफ़नाना
+clasp	दबकना
+stifle	दबना
+Press	दबाना
+to catch	दबोचना
+Suffocation	दम_घुटना
+suffocate	दम_तोड़ना
+to shine	दमकना
+Suppress	दमन_करना
+repress	दमित_करना
+crack	दरकना
+show	दरशाना
+Darsana	दरसाना
+to enter	दर्ज_करना
+register	दर्ज_कराना
+to be registered	दर्ज_होना
+Pain	दर्द_होना
+show	दर्शाना
+team up	दल_बनाना
+pulse	दलना
+dumping	दलवाना
+Dalana	दलाना
+to argue	दलीलबाज़ी_करना
+blazing	दहकना
+blazing	दहकाना
+burn	दहना
+tremble	दहलना
+tremble	दहलाना
+roar	दहाड़ना
+grain	दाँना
+stake	दाँव_पर_रखना
+tooth	दाँवना
+granule	दांना
+betting	दांवना
+to enter	दाख़िल_होना
+Detonate	दागना
+to stain	दाग़ना
+rash	दाधना
+donate	दान_करना
+Donate	दान_देना
+Grain	दाना
+price_sky_touch	दाम_आसमान_छूना
+price rise	दाम_बढ़ना
+price up	दाम_रखना
+to throw a feast	दावत_देना
+right	दाहना
+to be seen	दिखना
+show off	दिखलाना
+Show	दिखाना
+show off	दिखावा_करना
+having a crush	दिल_आना
+be interested	दिलचस्पी_होना
+to get	दिलवाना
+get	दिलाना
+to console	दिलासा_देना
+to tease	दिल्लगी_करना
+insolvency	दिवाला_निकालना
+to bankrupt	दिवालिया_करना
+bankrupt	दिवालिया_बनाना
+daydreaming	दिवास्वप्न_देखना
+direction_field_to	दिशा_मैदान_करना
+To brighten	दीप्त_होना
+to surround the wall	दीवार_से_घेरना
+to suffer	दुख_उठाना
+suffer	दुख_झेलना
+suffering	दुख_सहना
+to hurt	दुखना
+to hurt	दुखाना
+to grieve	दुखी_करना
+to be sad	दुखी_होना
+grumble	दुतकारना
+lurk	दुबकना
+to lean	दुबलाना
+Durdurana	दुरदुराना
+To set right	दुरुस्त_करना
+to stink	दुर्गंध_देना
+to weaken	दुर्बल_करना
+to be weak	दुर्बल_होना
+caress	दुलार_करना
+to caress	दुलारना
+second	दुसराना
+milking	दुहना
+repeat	दुहराना
+milking	दुहवाना
+cry out	दुहाई_देना
+milking	दुहाना
+To remove	दूर_करना
+remove away	दूर_हटाना
+second_place_on_come	दूसरे_स्थान_पर_आना
+to be visible	दृष्टिगोचर_होना
+take care	देख-भाल_करना
+to look after	देख-रेख_करना
+Look	देखना
+take care	देखभाल_करना
+to look after	देखरेख_करना
+Give	देना
+to be late	देर_होना
+To sanctify	दोष_मुक्त_करना
+harness	दोहना
+repeat	दोहरा_करना
+double	दोहरा_होना
+Repeat	दोहराना
+repeat	दोहाना
+to run	दौड़_लगाना
+running	दौड़ना
+run and run	दौड़ना-भागना
+to run	दौड़वाना
+run	दौड़ाना
+liquefy	द्रवित_होना
+to hate	द्वेष_करना
+to sink	धँसकना
+sink in	धँसना
+sink	धँसाना
+blazing	धकधकाना
+whine	धकपकाना
+push	धकियाना
+push	धकेलना
+to push	धक्का_देना
+dagdhagana	धगधगाना
+Incandesce	धधकना
+blazing	धधकाना
+to threaten	धमक_पड़ना
+bully	धमकना
+to threaten	धमकाना
+to threaten	धमकी_देना
+make a fuss	धमधमाना
+Strike	धरना
+picket	धराना
+collapse	धराशायी_होना
+slam	धसकना
+sink in	धाँसना
+torrent_fall	धार_गिरना
+contain of	धारण_करना
+To attack	धावा_बोलना
+be patient	धीरज_रखना
+smoke	धुँआना
+blur	धुँधराना
+blur	धुँधलाना
+smudge	धुँधाना
+smoke	धुँधुआना
+smoke	धुँधुवाना
+blurring	धुंधराना
+blur	धुंधलाना
+blur	धुंधाना
+misting	धुंधुआना
+Dhundhuwana	धुंधुवाना
+smoke	धुअँठना
+smoke	धुआँना
+to tune	धुनकना
+tune	धुनना
+tune up	धुनवाना
+to wash	धुनाई_करना
+to wash	धुलना
+to wash	धुलवाना
+to wash	धुलाना
+to sunbathe	धूपना
+smoking	धूम्रपान_करना
+patience_break	धैर्य_टूटना
+to be patient	धैर्य_भंग_होना
+be patient	धैर्य_रखना
+Cheat	धोखा_देना
+wash	धोना
+take care	ध्यान_रखना
+be attentive	ध्यानावस्थित_होना
+collapse	ध्वस्त_होना
+To not accept	न_मानना
+napping	नँधना
+to bare	नंगा_करना
+orgy	नंगियाना
+nandhana	नंधना
+To copy	नकल_करना
+imitate	नक़ल_करना
+negate	नकारना
+Nakiana	नकियाना
+nail down	नकेल_डालना
+show tantrums	नख़रे_दिखाना
+nail	नखियाना
+dance	नचवाना
+dance	नचाना
+watch out	नजर_रखना
+nagging	नटना
+to attach	नत्थी_करना
+Nadhna	नधना
+measure	नपना
+to measure	नपवाना
+Namna	नमना
+to be blessed	नमित_होना
+innovate	नया_करना
+Navna	नवना
+to honor	नवाजना
+to honor	नवाज़ना
+Navana	नवाना
+renew	नवीकरण_करना
+renew	नवीनीकरण_करना
+intoxication	नशा_आना
+To get drunk	नशा_करना
+intoxication	नशा_गाँठना
+get intoxicated	नशा_चढ़ना
+intoxication	नशाना
+drink water	नशापानी_करना
+To destroy	नष्ट_करना
+Destruction	नष्ट_होना
+nasana	नसाना
+to bathe	नहलाना
+bathe	नहवाना
+Bath	नहाना
+Knead	नाँधना
+swoop	नांधना
+nose cut	नाक_कटाना
+nose bleed	नाक_बजाना
+To cause lots of trouble	नाक_में_दम_करना
+dance	नाचना
+to be proud	नाज़_नख़रा_करना
+Nathana	नाथना
+to sound	नादना
+nadhna	नाधना
+to scale	नापना
+Give a name	नाम_देना
+naming	नाम_रखना
+To get angry	नाराज़_होना
+To destroy	नाश_करना
+censure	निंदवाना
+Condemn	निंदा_करना
+censure	निंदाई_करना
+censure	निंदाई_कराना
+slander	निंदाना
+Get out	निकलना
+to remove	निकलवाना
+eject	निकाना
+Removal	निकालना
+to refine	निखारना
+ingest	निगंदना
+Swallowing	निगलना
+wringing out	निचोड़ना
+give up	निछावर_होना
+quench	निथरना
+quench	निथारना
+tackle	निपटना
+to settle	निपटाना
+to master	निपुण_करना
+skill up	निपुण_बनाना
+dispose	निबटाना
+nibble	निबहना
+nibble	निबहुरना
+to settle	निबाह_करना
+niddle	निबाहना
+play	निभना
+Carry on	निभाना
+invite	निमंत्रण_देना
+invitation	निमंत्रना
+to invite	निमंत्रित_करना
+to assign	नियत_करना
+to appoint	नियुक्त_करना
+nirvana	निरवाना
+To cancel	निरस्त_करना
+weeding	निराई_करना
+weeding	निराई_कराना
+resolve	निराकरण_करना
+weed out	निराना
+unanswered	निरुत्तर_होना
+non-industrial	निरुद्योग_रहना
+to issue	निर्गत_करना
+To get issued	निर्गत_होना
+decision making	निर्णय_लेना
+to direct	निर्देश_करना
+to direct	निर्देशित_करना
+To determine	निर्धारित_करना
+to depend	निर्भर_होना
+to construct	निर्माण_करना
+to build	निर्माण_करवाना
+elected to	निर्वाचित_करना
+To maintain	निर्वाह_करना
+net_income_tax	निवल_आय_करना
+net income	निवल_आय_होना
+net profit	निवल_लाभ_करना
+net profit	निवल_लाभ_होना
+To reside	निवास_करना
+To request	निवेदन_करना
+invest	निवेश_करना
+To make a mark	निशान_लगाना
+to target	निशाना_बनाना
+To make sure	निश्चित_करना
+To release	निस्तार_करना
+get rid of	निस्तार_पाना
+behold	निहारना
+to sleep	नींदना
+neek_lagna	नीक_लगना
+to lower	नीचा_करना
+go down	नीचे_जाना
+throw down	नीचे_फेंकना
+auction off	नीलाम_करना
+take damage	नुकसान_उठाना
+damage_fill	नुकसान_भरना
+to make up for	नुक़सान_भरना
+crippling	नुचना
+dance	नृत्य_करना
+dance	नृत्य_कराना
+neta	नेउतना
+call	नेवतना
+scrape	नोचना
+to work	नौकरी_करना
+give job	नौकरी_देना
+reduce	न्यून_करना
+to be low	न्यून_होना
+invitation	न्योतना
+to shower	पँवारना
+Catch	पकड़ना
+to catch	पकड़ाना
+ripen	पकना
+dish	पकवाना
+cook	पकाना
+to strengthen	पक्का_करना
+to be sure	पक्का_होना
+tossing a turban	पगड़ी_उछालना
+Pagana	पगना
+to drive	पगलाना
+pagurana	पगुराना
+to digest	पचकना
+digest	पचना
+digest	पचा_लेना
+digest	पचाना
+fall behind	पछड़ना
+Repent	पछताना
+knock out	पछाड़ना
+pachiana	पछियाना
+tossing	पटकना
+slamming	पटकनी_देना
+Patna	पटना
+patting	पटपटाना
+track_sit	पटरी_बैठना
+Patwana	पटवाना
+Patna	पटाना
+bandage	पट्टी_पढ़ाना
+pathana	पठाना
+have got to	पड़ना
+padiyana	पड़ियाना
+Reading	पढ़ना
+to read	पढ़वाना
+to study	पढ़ाई_करना
+to teach	पढ़ाना
+spills over	पतन_होना
+rudder_rotate	पतवार_घुमाना
+rudder_turn	पतवार_मोड़ना
+To find out	पता_लगाना
+husband	पतिआना
+husband	पतियाना
+husband	पतीजना
+to stone	पथरना
+to stone	पथराना
+to promote	पदोन्नति_करना
+promotion_grant	पदोन्नति_देना
+flourish	पनपना
+sizing up	परखना
+to test	परखवाना
+test	परखाना
+tradition	परपराना
+the afterlife	परलोक_सिधारना
+To nurture	परवरिश_करना
+Persona	परसना
+Parswana	परसवाना
+parsana	परसाना
+to defeat	पराजित_करना
+be defeated	पराजित_होना
+advise	परामर्श_देना
+To defeat	परास्त_करना
+circumambulate	परिक्रमा_करना
+To introduce	परिचय_कराना
+to introduce	परिचय_देना
+to be familiar	परिचित_होना
+to abandon	परित्याग_करना
+abandon	परित्यागना
+to mature	परिपक्व_होना
+change	परिवर्तन_आना
+Making changes	परिवर्तन_करना
+change	परिवर्तित_होना
+to labor	परिश्रम_करना
+touch ups	परिष्कार_करना
+get tested	परीक्षण_करना
+get tested	परीक्षण_कराना
+test_exit	परीक्षण_निकलना
+Annoy	परेशान_करना
+to serve	परोसना
+travel	पर्यटन_करना
+rolling over	पलटना
+to reverse	पलटाना
+sit down	पलथी_मारकर_बैठना
+to flee	पलायन_करना
+Palsana	पलासना
+to flourish	पल्लवित_होना
+paverna	पवेरना
+to regret	पश्चाताप_करना
+To like	पसंद_आना
+to like	पसंद_करना
+like_ana	पसन्द_आना
+to like	पसन्द_करना
+stretching out	पसर_जाना
+to spread	पसरना
+spread out	पसरवाना
+to pass	पसाना
+to spread	पसारना
+exude	पसीजना
+to be recognized	पहचनवाना
+identify_to be	पहचान_होना
+Identify	पहचानना
+recognized	पहचाना_जाना
+Wear	पहनना
+to wear	पहनाना
+watch over	पहरा_देना
+reach	पहुँचना
+to reach	पहुँचवाना
+to deliver	पहुँचाना
+toilet	पाख़ाना_करना
+to cook	पाखाना_करना
+Pagana	पागना
+To go mad	पागल_होना
+to teach	पागुर_करना
+to ask	पाछना
+bridge	पाटना
+pathing	पाथना
+Fart	पाद_छोड़ना
+Farting	पादना
+to drink	पान_करना
+Get	पाना
+water coming	पानी_आना
+show water	पानी_दिखाना
+To tire one out	पानी_पिलाना
+rain water	पानी_बरसना
+rain water	पानी_बरसाना
+to be found	पाया_जाना
+cross off	पार_उतारना
+To get across	पार_करना
+cross over	पार_जाना
+to master	पारंगत_करना
+become proficient	पारंगत_बनाना
+To clear	पारित_करना
+partying	पार्टी_करना
+to wrap	पाल_लपेटना
+sail	पाल_समेटना
+Sitting in Squat	पालथी_मारकर_बैठना
+Obey	पालन_करना
+nurture	पालन-पोषण_करना
+Nourish	पालना
+frost	पाला_पड़ना
+nurture	पालित_करना
+to receive	पावना_करना
+passed	पास_होना
+ingot	पिंड_बनाना
+crush	पिंडित_करना
+to melt	पिघलना
+deflate	पिचकना
+deflate	पिचकाना
+lags behind	पिछड़ना
+beating	पिटना
+get beaten up	पिटाई_करवाना
+parenting	पितराना
+weaning	पितलाना
+pinpinana	पिनपिनाना
+pibiana	पिबियाना
+pirana	पिराना
+thread	पिरोना
+thread	पिरोहना
+to feed	पिलना
+to drink	पिलवाना
+to feed	पिलाना
+to grind	पिसना
+grind	पिसवाना
+to grind	पिसाना
+to wear	पिहकना
+to drink	पींजना
+to grind	पीकना
+Follow	पीछा_करना
+walk back	पीछे_चलना
+lagging behind	पीछे_छूटना
+lag behind	पीछे_लगना
+put back	पीछे_लगाना
+to be behind	पीछे_होना
+Beat	पीटना
+to beat	पीटवाना
+to beat up	पीटाई_करना
+torment	पीड़ा_देना
+to be sore	पीड़ा_होना
+To drink	पीना
+grind	पीसना
+call out	पुकार_लगाना
+to call	पुकारना
+fondle	पुचकारना
+put on	पुतना
+put on	पुतवाना
+put on	पुताना
+re_check	पुनः_जाँचना
+To do the recurrence	पुनरावृत्ति_करना
+old	पुरवाना
+old	पुराना
+to flower	पुष्पित_करना
+to flower	पुष्पित_होना
+pushana	पुसाना
+tail bite	पूँछ_काटना
+to ask	पूँछना
+to inquire	पूछताच_करना
+Ask	पूछना
+worship	पूजना
+To worship	पूजा_करना
+Purna	पूरना
+separate_remove	पृथक_निकालना
+isolate	पृथक_रक्षित_करना
+to separate	पृथक_होना
+to wear	पेंहाना
+penhana	पेन्हाना
+perna	पेरना
+to sail	पेलना
+Conduct oneself	पेश_आना
+To present	पेश_करना
+to piss	पेशाब_करना
+to pack	पैक_करना
+Paithana	पैठना
+paithana	पैठाना
+to beget	पैदा_करना
+to be born	पैदा_होना
+sharpen	पैनाना
+foot	पैरना
+parana	पैराना
+money_flying	पैसा_उड़ाना
+blow money	पैसा_फूँकना
+money masquerade	पैसा_बहाना
+to wipe	पोंछना
+wipe	पोछना
+ship	पोतना
+shipwreck	पोतभंग_होना
+to ship	पोतवाना
+ship	पोताना
+dress up	पोशाक_से_सुसज्जित_करना
+nourish	पोषना
+to nurture	पोषित_करना
+to groom	पोसना
+to wear	पोहना
+pound	पौंढ़ना
+sweep	पौंरना
+to reach	पौड़ना
+Pourna	पौरना
+to love	प्यार_करना
+fall in love	प्यार_होना
+Expose	प्रकट_करना
+To appear	प्रकट_होना
+To publish	प्रकाशित_करना
+publish	प्रकाशित_कराना
+To get published	प्रकाशित_होना
+outbreak	प्रकोप_होना
+To be prevalent	प्रचलित_होना
+To light up	प्रज्वलित_करना
+to pledge	प्रण_करना
+torture	प्रताड़ना
+to be harassed	प्रताड़ित_होना
+to pledge	प्रतिज्ञा_करना
+rival	प्रतिद्वंद्विता_करना
+resonate	प्रतिध्वनित_होना
+to be represented	प्रतिनोदित_होना
+to propound	प्रतिपादन_करना
+To reflect	प्रतिबिंबित_करना
+reflect	प्रतिबिम्बित_करना
+model_make	प्रतिरूप_बनाना
+retaliate	प्रतिशोध_लेना
+To Wait	प्रतीक्षा_करना
+give a performance	प्रदर्शन_करना
+to provide	प्रदान_करना
+to arrange	प्रबंध_करना
+Predominate	प्रबल_होना
+To effect	प्रभाव_डालना
+Affect	प्रभावित_करना
+purpose_to be	प्रयोजन_होना
+To babble	प्रलाप_करना
+to flow	प्रवाहित_करना
+to flow	प्रवाहित_कराना
+To flow	प्रवाहित_होना
+to enter	प्रविष्ट_होना
+Praveen_karna	प्रवीण_करना
+Praveen_banana	प्रवीण_बनाना
+To enter	प्रवेश_करना
+to enter	प्रवेश_कराना
+Praise	प्रशंसा_करना
+training	प्रशिक्षण_देना
+to train	प्रशिक्षित_करना
+To please	प्रसन्न_करना
+broadcast	प्रसारित_होना
+to be pregnant	प्रसूत_होना
+to present or to show	प्रस्तुत_करना
+to depart	प्रस्थान_करना
+to erupt	प्रस्फुटित_होना
+To assault	प्रहार_करना
+hit	प्रहार_झेलना
+strike	प्रहार_सहना
+take life	प्राण_लेना
+to arise	प्रादुर्भूत_होना
+to breathe	प्रान_फूँकना
+Receiving	प्राप्त_करना
+Have received	प्राप्त_होना
+to be received	प्राप्ति_होना
+start_begin	प्रारंभ_होना
+Praying	प्रार्थना_करना
+To love	प्रेम_करना
+love being	प्रेम_होना
+to inspire	प्रेरित_करना
+place_do	प्लेस_करना
+trap	फँदाना
+entangle	फँफाना
+get stuck	फँसना
+to trap	फँसाना
+flutter	फकना
+faguana	फगुआना
+to shoot	फटकना
+to shoot	फटकवाना
+to shoot	फटकाना
+Comeuppance	फटकारना
+rip up	फटना
+twitch	फड़कना
+flutter	फड़फड़ाना
+flutter	फड़वाना
+to tighten	फबती_कसना
+Fabna	फबना
+Farfarana	फरफराना
+decree	फरमाना
+absconding	फरार_होना
+complain	फरियाना
+duty to	फर्ज_करना
+duty to	फर्ज़_करना
+bear fruit	फल_देना
+flourish	फलना
+follow-up	फलाँग_मारना
+to mount	फलाँग_लगाना
+so and so	फलाना
+flutter	फहरना
+to hoist	फहराना
+decree	फ़रमाना
+absconding	फ़रार_होना
+to complain	फ़रियाद_करना
+harvest	फ़सल_उगाना
+harvest	फ़सल_काटना
+take advantage	फ़ायदा_उठाना
+profit	फ़ायदा_कमाना
+pluck	फाँकना
+tread	फाँदना
+to trap	फाँसना
+tread	फांदना
+tear out	फाड़ना
+take advantage	फायदा_उठाना
+form_to be	फार्म_होना
+to throw	फिंकवाना
+to throw	फिंकाना
+to worry	फिकर_करना
+to fix	फिकवाना
+to worry	फिक्र_करना
+to waste	फिज़ूलख़र्च_करना
+to waste	फिजूलखर्च_करना
+fit_ana	फिट_आना
+to fit	फिट_करना
+getting fit	फिट_होना
+re_to_find_remove	फिर_से_खोज_निकालना
+again_to_paana	फिर_से_पाना
+return_receive_receive	फिर_से_प्राप्त_करना
+turn around	फिरना
+wield	फिराना
+filming	फिल्माना
+to slide	फिसलना
+to slide	फिसलाना
+to pull	फींचना
+fade away	फीका_पड़ना
+pounce	फुदकना
+hiss	फुफकार_करना
+Hiss	फुफकारना
+fluff	फुलाना
+Whisper	फुसफुसाना
+allure	फुसलना
+allure	फुसलाना
+blow up	फूँकना
+to blow	फूंकना
+erupt	फूटना
+whine	फूत्कार_करना
+to whine	फूत्कारना
+to flower	फूलदार_होना
+flourish	फूलना
+Not to bluff	फूला_न_समाना
+Throw	फेंकना
+to throw	फेंकवाना
+to throw	फेंकाना
+to beat	फेंटना
+throw away	फेकवाना
+to turn	फेरना
+round up	फेरा_लगाना
+spread out	फैल_जाना
+spread	फैलना
+to spread	फैलवाना
+spread out	फैला_हुआ_होना
+stick up	फैला_होना
+Spread	फैलाना
+decision making	फैसला_लेना
+explode	फोड़_देना
+burst	फोड़ना
+flop_to be	फ्लाप_होना
+cast off	बँकारना
+distribute	बँटना
+to distribute	बँटवाना
+to tie	बँधना
+to tie	बँधवाना
+to be tied	बँधा_होना
+Be closed	बंद_होना
+to arrest	बंदी_बनाना
+release	बंधन_मुक्त_करना
+to be free	बंधन_मुक्त_होना
+to tie	बंधना
+Baurana	बउराना
+whisper	बकना
+talking too much	बकबक_करना
+chatter	बकबकाना
+Talking nonsense	बकवास_करना
+to pluck	बकोटना
+spare	बख़्शना
+to spare	बख़्शाना
+to show off	बखानना
+to spare	बख्शना
+to spare	बख्शाना
+look at	बघारना
+Avoid	बचना
+save	बचाना
+ringing	बजना
+ringing	बजबजाना
+to ring	बजवाना
+playing	बजाना
+to play	बझाना
+button	बटना
+to collect	बटोरना
+To chatter	बड़बड़_करना
+Mumble	बड़बड़ाना
+to brag	बड़ाई_करना
+to draw on	बढ़_जाना
+to grow	बढ़ना
+raise	बढ़वाना
+raise	बढ़ा_लेना
+Increase	बढ़ाना
+increase	बढ़ोत्तरी_होना
+to tell	बतलाना
+Narrate	बताना
+chatting	बतियाना
+Badna	बदना
+To defame	बदनाम_करना
+to stink	बदबू_करना
+changed	बदल_जाना
+change	बदल_देना
+Change	बदलना
+to replace	बदलवाना
+pay back	बदला_चुकाना
+change	बदलाव_आना
+to replace	बदली_कराना
+to become	बनना
+make up	बनना-ठनना
+to make	बनवाना
+make up	बना_देना
+Maintain it	बनाए_रखना
+Make	बनाना
+to bomb	बमकना
+To give detail	बयान_करना
+to trick	बरगलाना
+carry out	बरतना
+to abide	बरदाश्त_करना
+To destroy	बरबाद_करना
+rain	बरषना
+rain	बरषाना
+to rain	बरसना
+to rain	बरसात_होना
+Rain	बरसाना
+barana	बराना
+Equal	बराबर_होना
+to recover	बरामद_करना
+acquit	बरी_करना
+to fool	बर्गलाना
+behave	बर्ताव_करना
+to waste	बर्बाद_करना
+barrana	बर्राना
+force_khana	बल_खाना
+force out	बल_पड़ना
+blabbering	बलबलाना
+sacrifice	बलि_चढ़ना
+to sacrifice	बलि_देना
+Settle	बसना
+settle down	बसाना
+settle down	बसियाना
+delude	बहकना
+masquerade	बहकाना
+Flow	बहना
+Bahriyana	बहरियाना
+sway	बहलना
+to amuse	बहलाना
+to pretend	बहवाना
+Argue	बहस_करना
+Excuse	बहाना
+pretend	बहारना
+Bahirana	बहिराना
+to ban	बाँचना
+divide	बाँटना
+to tie	बाँधना
+Tie	बांधना
+wait for	बाट_जोहना
+to share	बाटना
+talking	बात_करना
+to agree	बात_मानना
+To talk	बातचीत_करना
+Interrupt	बाधा_डालना
+hinder	बाधा_पड़ना
+to rain	बारिश_करना
+raining	बारिश_होना
+border making	बार्डर_बनाना
+splitting hairs	बाल_की_खाल_निकालना
+come out	बाहर_आना
+to sell	बिकना
+sale_to be	बिक्री_होना
+scatter	बिखरना
+scatter	बिखराना
+to scatter	बिखेरना
+deteriorate	बिगड़ना
+Deteriorate	बिगाड़ना
+linger	बिचकना
+to sell	बिचकाना
+lay	बिछना
+fall out	बिछलना
+to lay	बिछवाना
+lay	बिछाना
+parting	बिछुड़ना
+to put	बिठवाना
+set up	बिठाना
+to spend	बिताना
+soar	बिदकना
+send off	बिदकाना
+parting	बिदराना
+Binna	बिनना
+unwrap	बिनवाना
+calves	बियाना
+marriage	बियाहना
+sit down	बिराजना
+sobbing	बिलखना
+sobbing	बिलगना
+to whine	बिलगाना
+sobbing	बिलबिलाना
+to bill	बिलवाना
+to bill	बिलाना
+shake	बिलोड़ना
+billona	बिलोना
+disperse	बिसरना
+throw away	बिसारना
+bedding	बिस्तर_देना
+to seed	बीज_डालना
+to pass	बीतना
+Glean	बीनना
+besna	बीसना
+sowing	बुआना
+extinguish	बुझना
+extinguish	बुझाना
+grumble	बुड़बुड़ाना
+old age	बुढ़ाना
+weave	बुताना
+mumble	बुदबुदाना
+knit	बुनना
+to knit	बुनवाना
+knitting	बुनाई_करना
+to sprinkle	बुरकना
+bad say	बुरा_कहना
+To feel bad	बुरा_लगना
+backbiting	बुराई_करना
+to summon	बुलवाना
+Call	बुलाना
+sow	बुवाना
+to sprinkle	बुहारना
+understand	बूझना
+booze	बूझाना
+rub off	बूड़ना
+old age	बूड़ाना
+to sell	बेंचना
+beckon	बेकल_होना
+Sell	बेचना
+Getting bothered	बेचैन_होना
+raft	बेड़ा_पार_लगाना
+pierce	बेधना
+remain unemployed	बेरोजगार_रहना
+to roll	बेलना
+Belwana	बेलवाना
+to roll	बेलाना
+to be numb	बेसुध_होना
+be better off	बेहतर_करना
+make better	बेहतर_बनाना
+to sit	बैठना
+to sit	बैठवाना
+to sit	बैठाना
+to sit	बैठारना
+sit down	बैठालना
+sow	बोआई_करना
+sow	बोआना
+sow	बोना
+to bore	बोरना
+speak_close_be	बोलती_बंद_होना
+Speak	बोलना
+to talk	बोलना_बतियाना
+chatter	बोलना-बतियाना
+to speak	बोलवाना
+sow	बोवाई_करना
+sow	बोवाना
+blooming	बौर_आना
+born	बौरना
+dwarf	बौराना
+earnest	ब्याना
+marriage	ब्याहना
+whisper	भँकरना
+Bhangrana	भँगरना
+bathe	भँगियाना
+barking	भँजाना
+Bhangiana	भंगियाना
+to store	भंडारण_करना
+to whine	भकभकाना
+blow up	भकरना
+to provoke	भकसाना
+to tempt	भकोसना
+devour	भक्षण_करना
+to bark	भखना
+run away	भगना
+run away	भगरना
+god	भगवाना
+drive away	भगाना
+fracturing	भग्न_करना
+fracturing	भग्न_होना
+hymn_begin_to	भजन_शुरु_करना
+Bhajana	भजना
+Wander	भटकना
+deviate	भटकाना
+Bhatiana	भटियाना
+bathe	भठियाना
+flare up	भड़कना
+to provoke	भड़कवाना
+Provoke	भड़काना
+rumble	भड़भड़ाना
+buzz	भनभनाना
+Scare off	भयभीत_करना
+Getting scared	भयभीत_होना
+fill up	भर_आना
+to feed	भरण-पोषण_करना
+to recruit	भरती_करना
+Fill	भरना
+to compensate	भरपाई_करना
+to trick	भरमना
+to deceive	भरमाना
+to fill	भरवाना
+to fill	भराना
+to trust	भरोसा_करना
+make good	भला-चंगा_बनाना
+whisper	भाँजना
+To guess	भाँपना
+run	भाग_करना
+Escape	भागना
+hire_per_receive	भाड़े_पर_लेना
+feel	भाना
+steam	भापना
+express	भाव_अभिव्यक्त_करना
+feeling_sky_touching	भाव_आसमान_छूना
+price rise	भाव_चढ़ना
+price rise	भाव_बढ़ना
+to be passionate	भावलीन_होना
+express	भावाभिव्यक्त_करना
+to express	भावाभिव्यक्ति_करना
+delivering a speech	भाषण_देना
+soak	भिंगवाना
+soaking	भिंगाना
+to send	भिंजवाना
+swing	भिंजाना
+give alms	भिक्षा_देना
+to soak	भिगवाना
+to soak	भिगाना
+soaking	भिगोना
+to send	भिजवाना
+send	भिजाना
+collide	भिड़ंत_होना
+clash	भिड़ना
+clash	भिड़वाना
+clash	भिड़ाना
+peeking	भिनकना
+buzz	भिनभिनाना
+to wet	भींगना
+wiggle	भींजना
+begging	भीख_देना
+wet	भीगना
+wheezing	भीजना
+to rub	भुँजना
+Bhujwana	भुँजवाना
+to arm	भुँजाना
+knead	भुंजना
+to starve	भुखाना
+Bear	भुगतना
+to pay	भुगतान_करना
+payment	भुगताना
+roast	भुनना
+grumble	भुनभुनाना
+to redeem	भुनवाना
+redeem	भुनाना
+grumble	भुरभुराना
+to forget	भुलवाना
+whisper	भूँ-भूँ_करना
+to bark	भूँकना
+barking	भूँजना
+roast	भूंजना
+roasting	भूजना
+Fry	भूनना
+To make mistake	भूल_करना
+Forget	भूलना
+To meet	भेंट_करना
+to present	भेंट_देना
+to meet	भेंट_होना
+to meet	भेंटना
+Send	भेजना
+to send	भेजवाना
+penetrate	भेदना
+to whine	भों-भों_करना
+to bark	भोंकना
+to suffer	भोगना
+banquet	भोज_देना
+To have a meal	भोजन_करना
+to feed	भोजन_कराना
+baking dish	भोजन_पकाना
+cooking	भोजन_बनाना
+to frown	भौं-भौं_करना
+bark	भौंकना
+to be stunned	भौंचक्का_होना
+Lo and behold	भौचक्का_होना
+delusions	भ्रम_होना
+to confuse	भ्रमित_करना
+be confused	भ्रमित_होना
+to order	मँगवाना
+to order	मँगाना
+get it done	मँजवाना
+sorted out	मँजाई_करना
+hover over	मँडराना
+hover	मँडलाना
+to turn	मँड़ना
+to hang	मँड़वाना
+to order	मंगवाना
+to order	मंगाना
+to stage	मंचित_करना
+Hover	मंडराना
+Mandalana	मंडलाना
+twist	मंड़ना
+to brainstorm	मंथन_करना
+ask for	मघारना
+groan	मचकना
+make a fuss	मचकाना
+make up	मचना
+make a fuss	मचमचाना
+groan	मचलना
+make a fuss	मचलाना
+to raise	मचाना
+prank	मज़ाक_उड़ाना
+to joke	मज़ाक_करना
+to joke	मजाक_करना
+thrash	मटकना
+matkana	मटकाना
+matiana	मटिआना
+matiana	मटियाना
+stir up	मडराना
+overlay	मढ़ना
+to overlay	मढ़वाना
+overlay	मढ़ाना
+Having meanings	मतलब_होना
+bow down	मत्थे_मढ़ना
+churn	मथना
+to drink	मद्यपान_करना
+tremble	मन_डोलना
+To entertain	मन_बहलाना
+Half heartedly	मन_मारना
+mind	मन_होना
+to persuade	मनवाना
+Celebrate	मनाना
+entertain	मनोरंजन_करना
+make a vow	मन्नत_करना
+to map	मपवाना
+To die completely	मर-मिटना
+Die	मरना
+Marmarana	मरमराना
+reparing	मरम्मत_करना
+to die	मरवाना
+twist	मरोड़ना
+rub	मलना
+rubbish	मलवाना
+masquerade	मसलना
+have fun	मस्त_होना
+mastana	मस्ताना
+to be expensive	महँगा_होना
+to smell	महकना
+to be important	महत्त्वपूर्ण_होना
+become crucial	महत्वपूर्ण_होना
+great man	महमहाना
+to feel	महसूस_करना
+to feel	महसूस_होना
+feel	महसूसना
+demand	माँग_होना
+ask for	माँगना
+solicit	माँजना
+to bend	माँड़ना
+scavenge	मांजना
+to mend	मांड़ना
+outwit	मात_देना
+Accept	मानना
+to measure	मापना
+sorry	माफ_करना
+to forgive	माफ_करवाना
+to forgive	माफ_कराना
+Pardon me	माफ़_करना
+to forgive	माफ़_करवाना
+to forgive	माफ़_कराना
+apology	माफ़ी_देना
+forgive me	माफी_देना
+Strike	मारना
+march to	मार्च_करना
+march	मार्च_कराना
+owner_make	मालिक_बनाना
+to massage	मालिश_करना
+to know	मालूम_पड़ना
+to know	मालूम_होना
+shrug	मिचकाना
+Nausea	मिचलाना
+Nausea	मिचली_आना
+fade away	मिटना
+erase	मिटाना
+mix with soil	मिट्टी_में_मिलाना
+babble	मिमियाना
+to meet	मिलन_होना
+Get	मिलना
+Mix	मिलाना
+to mix	मिश्रित_करना
+mixed up	मिश्रित_होना
+scrub	मींजना
+Meechna	मीचना
+to turn	मुँड़ना
+shave off	मुँड़वाना
+to shave	मुँड़ाना
+shave off	मुंडन_कराना
+to shave	मुंड़ना
+shave off	मुंड़वाना
+shave off	मुंड़ाना
+able to be	मुआफिक_होना
+back down	मुकरना
+to match	मुक़ाबिला_करना
+to compete	मुकाबला_करना
+To release	मुक्त_करना
+to redeem	मुक्त_होना
+main_topic_of_as_in_reading	मुख्य_विषय_के_रूप_में_पढ़ना
+main_topic_be	मुख्य_विषय_होना
+wipe off	मुटाना
+to turn	मुड़ना
+to twist	मुड़वाना
+to turn	मुड़ाना
+Mutana	मुताना
+print out	मुद्रण_करना
+printed_to be	मुद्रित_होना
+wither	मुरझाना
+wither	मुर्झाना
+postpone	मुलतवी_करना
+to be postponed	मुलतवी_होना
+see each other	मुलाक़ात_करना
+to meet	मुलाकात_करना
+smile	मुस्कराना
+smile	मुस्काना
+to smile	मुस्कुराना
+to stamp	मुहर_लगाना
+to shave	मूँड़ना
+to shave	मूँदना
+to shave	मूंड़ना
+to turn	मूड़ना
+turn away	मूड़ा_जाना
+pissing	मूतना
+piss off	मूतवाना
+value_keep	मूल्य_रखना
+price up	मूल्य_लगाना
+To evaluate	मूल्यांकन_करना
+torrential downpour	मूसलाधार_पानी_गिरना
+torrential downpour	मूसलाधार_पानी_बरसना
+rain cats and dogs	मूसलाधार_बारिश_होना
+torrential rain	मूसलाधार_वर्षा_होना
+in_in_doing	में_में_करना
+cook	मेंकना
+memiana	मेमियाना
+match_to be	मेल_होना
+fall in love	मेह_पड़ना
+workout hard	मेहनत_करना
+thicken	मोटाना
+turn	मोड़_देना
+to bend	मोड़ना
+to buy	मोल_लेना
+Mohana	मोहना
+to stamp	मोहर_लगाना
+to mesmerise	मोहित_करना
+To get fascinated	मोहित_होना
+fun_fun_filled_casual_life_live	मौज_मस्ती_भरा_आरामदायक_जीवन_जीना
+fun_full_life_live	मौज_मस्ती_भरा_जीवन_जीना
+fun_life_live	मौज-मस्तीभरा_जीवन_जीना
+fun_with_live_with	मौजमस्ती_के_साथ_जीना
+fun_filled_life_live	मौजमस्ती_भरा_जीवन_जीना
+death_k_ghat_unload	मौत_के_घाट_उतारना
+morna	मौरना
+be sad	म्लान_होना
+To travel	यात्रा_करना
+remind	याद_दिलाना
+make war	युद्ध_करना
+to be young	युवा_होना
+to sum	योग_करना
+qualify	योग्य_बनाना
+making plans	योजना_बनाना
+to paint	रँगना
+to paint	रँगवाना
+to paint	रँगाना
+sieve	रँधवाना
+color age	रंग_जमाना
+paint	रंग_लाना
+to paint	रंगना
+to paint	रंगवाना
+paint	रंगाना
+to dye	रंधवाना
+ruminate	रंभाना
+To protect	रक्षा_करना
+to protect	रक्षित_करना
+Keep	रखना
+to keep	रखवाना
+to guard	रखवाली_करना
+to keep	रखाना
+Rakhiana	रखियाना
+Rub	रगड़ना
+to rub	रगड़वाना
+to call	रङ्गवाना
+to paint	रङ्गाना
+Composition	रचना
+to create	रचना_करना
+Learn by heart	रटना
+to rote	रट्टा_लगाना
+To cancel	रद्द_करना
+darn_dizzy_to be	रफ़ू_चक्कर_होना
+Ramna	रमना
+rumble	रम्भाना
+Ramyana	रम्याना
+to leave	रवाना_करना
+depart	रवाना_होना
+ooze	रसना
+receipt	रसीद_करना
+kitchen cook	रसोई_बनाना
+To stay back	रह_जाना
+Live	रहना
+sieve	राँधना
+moan	राँभना
+agree upon	राज़ी_होना
+to agree	राजी_होना
+give opinion	राय_देना
+ravana	रावनाना
+way_see	रास्ता_देखना
+to seduce	रिझाना
+crack	रिड़कना
+cry	रिरना
+ririana	रिरिआना
+Rilna	रिलना
+seep	रिसना
+seep out	रिसाना
+To Release	रिहा_करना
+to be released	रिहा_होना
+Rindhana	रींधना
+To be pleased	रीझना
+to knit	रुँधना
+Stop	रुकना
+to stop	रुकवाना
+stand up	रुख_होना
+stand up	रुख़_होना
+interest	रुचना
+be interested	रुचि_होना
+to cry	रुदन_करना
+to make me cry	रुलवाना
+To make cry	रुलाना
+to cry	रूठना
+to form	रूप_देना
+take form	रूप_लेना
+appearance	रूप_होना
+to be angry	रूष्ट_होना
+Russian	रूसना
+to crawl	रेंकना
+crawling	रेंगना
+creep	रेंगाना
+sanding	रेतना
+to sand	रेताना
+railing	रेलिंग_लगाना
+race_do	रेस_करना
+stay	रेहना
+racket_to_kill	रैकेट_से_मारना
+to stop	रोक_देना
+to stop	रोक_लेना
+Stop	रोकना
+to stop	रोकवाना
+Weeping	रोना
+to plant	रोपना
+swoon	रोब_झाड़ना
+to roll	रोल_करना
+trample	रौंदना
+to trample	रौंदवाना
+rob_dana	रौब_देना
+limp	लँगड़ाना
+overrun	लँघाना
+anchored_to be	लंगर_डाला_होना
+lengthen	लंबा_करना
+long_difficult_travel_to	लंबी_कठिन_यात्रा_करना
+set goals	लक्ष्य_बनाना
+zero in	लक्ष्य_साधना
+Lakhna	लखना
+Feel	लगना
+to put up	लगवाना
+stay put	लगा_रहना
+Placement	लगाना
+set off	लगाना_बुझाना
+keep it up	लगे_रहना
+Lajwana	लजवाना
+shame	लजाना
+to make ashamed	लज्जित_करना
+be shy	लज्जित_होना
+hanging	लटकना
+to hang	लटकवाना
+Hang	लटकाना
+falter	लड़खड़ाना
+fight	लड़ना
+to fight	लड़वाना
+Pick a fight	लड़ाई_करना
+to fight	लड़ाना
+rebuke	लताड़ना
+latiana	लतियाना
+to kick	लथाड़ना
+to launder	लथेड़ना
+to load	लदना
+load up	लदवाना
+grab	लपकना
+to smack	लपटाना
+Wrapp up	लपेटना
+lengthen	लम्बा_करना
+rhythm	लय_होना
+hankering	ललकना
+to challenge	ललकारना
+tempted	ललचना
+tempt	ललचाना
+wave_run	लहर_दौड़ना
+to wave	लहरना
+to wave	लहराना
+waves_khana	लहरें_खाना
+to walk	लहलहाना
+to cross	लाँघना
+a leap	लांघना
+To apply	लागू_करना
+to pamper	लाड़_करना
+to load	लादना
+Bring in	लाना
+To take benefit from	लाभ_उठाना
+making a profit	लाभ_कमाना
+to be benefited	लाभान्वित_होना
+To bribe	लालच_देना
+to crave	लालसा_करना
+Write	लिखना
+to write	लिखवाना
+write	लिखाना
+lay down	लिटवाना
+lay down	लिटाना
+to wrap	लिपटना
+to wrap	लिपटाना
+to wrap	लिपना
+to lip	लिपवाना
+record	लिपिबद्ध_करना
+to smear	लीपना
+Lila	लीलना
+lundiana	लुंडियाना
+hide	लुकाना
+to rob	लुटना
+to rob	लुटाना
+ludiana	लुड़ियाना
+to roll over	लुढ़कना
+to roll over	लुढ़कवाना
+roll over	लुढ़काना
+To disappear	लुप्त_होना
+seduce	लुब्ध_करना
+be tempted	लुब्ध_होना
+allure	लुभना
+allure	लुभाना
+lu_marna	लू_मारना
+heat stroke	लू_लगना
+plunder	लूट_लेना
+to rob	लूटना
+bring it	ले_आना
+Take it	ले_लेना
+Lie down	लेटना
+to lay down	लेटवाना
+lying down	लेटाना
+to take	लेना
+coating	लेप_लगना
+to coat	लेपना
+equip	लैस_करना
+to roll	लोटना
+to roll	लोढ़ना
+Lohana	लोहाना
+to return	लौटना
+to refund	लौटवाना
+to pay back	लौटाना
+make a statement	वक्तव्य_देना
+break promise	वचन_तोड़ना
+To give promise	वचन_देना
+to weight	वजन_करना
+weight gain	वजन_करवाना
+weight to be	वजन_होना
+To vomit	वमन_करना
+to choose	वरण_करना
+Otherwise	वरना
+square off	वर्गफल_निकालना
+square off	वर्गाकार_करना
+square_make	वर्गाकार_बनाना
+to describe	वर्णन_करना
+to rain	वर्षा_करना
+Raining	वर्षा_होना
+to control	वश_में_करना
+To make a will	वसीयत_करना
+To recover	वसूल_करना
+to collect	वसूलना
+to argue	वाद_विवाद_करना
+to promise	वादा_करना
+vaparna	वापरना
+Come back	वापस_आना
+To return	वापस_करना
+to talk	वार्तालाप_करना
+evaporate	वाष्पित_करना
+to evaporate	वाष्पित_होना
+lust	वास_लेना
+to develop	विकसित_करना
+To develop	विकसित_होना
+develop	विकास_करना
+deformed	विकृत_होना
+to sell	विक्रय_करना
+sell_for_available_make	विक्रय_के_लिए_उपलब्ध_करना
+sell_for_keep	विक्रय_के_लिए_रखना
+to be sold	विक्रीत_होना
+to think	विचार_होना
+to reflect	विचारना
+to gain victory	विजय_पाना
+be victorious	विजयी_होना
+to disobey	वितंडा_करना
+distribute	वितरण_करना
+to distribute	वितरण_कराना
+distribute	वितरित_करना
+wiggle	विथराना
+to leave	विदा_करना
+To request	विनती_करना
+humor	विनोद_करना
+Split	विभाजित_करना
+dissociate	वियुक्त_करना
+sit down	विराजना
+to be deserted	विरान_होना
+delay	विलंब_होना
+detach	विलग_करना
+to be separated	विलग_होना
+detach	विलगाना
+Merged	विलय_होना
+Express discontent or sorrow over something	विलाप_करना
+To extinct	विलुप्त_होना
+To marry	विवाह_करना
+marriage_propose_keep	विवाह_प्रस्ताव_रखना
+divorce	विवाह_विच्छेद_करना
+attribute_to be	विशेषता_होना
+to be surprised	विश्मय_होना
+To rest	विश्राम_करना
+To believe	विश्वास_करना
+expand	विस्तृत_करना
+be wide	विस्तृत_होना
+expand	विस्फारित_करना
+to forget	विस्मरण_करना
+to forget	विस्मृत_करना
+grow older	वृद्ध_होना
+to grow	वृद्धि_होना
+welding	वेल्डिंग_करना
+sarcasm	व्यंग_करना
+sarcasm	व्यंगोक्ति_करना
+to chuckle	व्यंग्य_करना
+To express	व्यक्त_करना
+To spend	व्यतीत_करना
+to be spent	व्यतीत_होना
+be upset	व्यथित_होना
+to be spent	व्यय_होना
+to make arrangements	व्यवस्था_करना
+to be arranged	व्यवस्थित_करना
+Behave	व्यवहार_करना
+to be busy	व्यस्त_रहना
+To be disquiet	व्याकुल_होना
+to explain	व्याख्या_करना
+get exercise	व्यायाम_करवाना
+exercise	व्यायाम_कराना
+to chant	शगुनाना
+To do the words	शब्द_करना
+Blush	शरमाना
+cursing	शरापना
+drinking alcohol	शराब_पीना
+to embarrass	शर्मिन्दा_करना
+curls up	शर्मिन्दा_होना
+surgery	शल्य_कर्म_करना
+To calm down	शांत_करना
+to showoff	शान_दिखाना
+curse	शाप_देना
+curse	शापना
+To Appreciate	शाबाशी_देना
+to include	शामिल_करना
+defeat	शिकस्त_देना
+Hunting	शिकार_करना
+hunt_play	शिकार_खेलना
+to educate	शिक्षा_देना
+net_income_do	शुद्ध_आमदनी_करना
+net_income_to be	शुद्ध_आमदनी_होना
+net_income_tax	शुद्ध_आय_करना
+net_income_being	शुद्ध_आय_होना
+net_saving_doing	शुद्ध_बचत_करना
+net_saving_being	शुद्ध_बचत_होना
+net_profit_earning	शुद्ध_लाभ_कमाना
+net profit	शुद्ध_लाभ_होना
+best wishes	शुभकामना_देना
+to begin	शुरु_होना
+to begin	शुरुवात_होना
+To start	शुरू_करना
+to initiate	शुरूआत_करना
+To start	शुरूवात_करना
+make up	शृंगार_करना
+brag	शेखी_दिखाना
+to rant	शेखी_बघारना
+share_share	शेयर_करना
+stylistic	शैलीगत_करना
+show_do	शो_करना
+rectify	शोधन_करना
+Shobhana	शोभना
+to be blessed	शोभान्वित_होना
+to be graceful	शोभायमान_होना
+to be adorned	शोभित_होना
+make noise	शोर_करना
+Making Noise	शोर_मचाना
+to labor	श्रम_करना
+To listen	श्रवण_करना
+curse	श्राप_देना
+curse	श्रापना
+asphyxia	श्वासावरोध_होना
+to shrink	सँकड़ाना
+to narrow	सँकराना
+to hang out	सँकाना
+sniff	सँघेरना
+cherish	सँजोना
+recover	सँभलना
+handle	सँभालना
+embellish	सँवरना
+grooming	सँवारना
+To abridge it	संकुचित_करना
+To feel shy	संकुचित_होना
+To hesitate	संकोच_करना
+give up	संकोच_त्यागना
+number_know	संख्या_जानना
+confluence	संगम_होना
+composing music	संगीत_की_रचना_करना
+Music Composition	संगीत_रचना
+to collect	संग्रह_करना
+collect	संग्रहना
+To struggle	संघर्ष_करना
+to fight	संघेरना
+To operate	संचालन_करना
+B to operate	संचालित_करना
+to accumulate	संचित_करना
+To satisfy	संतुष्ट_करना
+to be satisfied	संतुष्ट_होना
+edit	संपादित_करना
+be related	संबंध_होना
+to associate	संबद्ध_करना
+to address	संबोधन_करना
+in addressing	संबोधित_करना
+recover	संभलना
+handle	संभालना
+likely to be	संभावना_होना
+to be united	संयुक्त_होना
+protected_keep	संरक्षित_रखना
+structure_be	संरचना_होना
+to attach	संलग्न_करना
+be attached	संलग्न_होना
+make amend	संशोधन_करना
+to destroy	संहारना
+can	सकना
+shudder	सकपकाना
+to affirm	सकारना
+to squeeze	सकुँचाना
+caution	सकुचना
+Shrink	सकुचाना
+to acquiesce	सगुनाँना
+to praise	सगुनाना
+to alert	सचेत_करना
+be alert	सजग_रहना
+Dress up	सजना
+to decorate	सजना-धजना
+to adorn	सजाना
+To decorate	सज्जित_करना
+get close	सटक_जाना
+take a stand	सटक_लेना
+to stick	सटकना
+adjoining	सटना
+to mate	सटाना
+clumsiness	सठियाना
+Rot	सड़ना
+rot	सड़ाना
+Afflict	सताना
+Sadhana	सधना
+Sadhuana	सधुआना
+sensation	सनसनाना
+dreamer	सपरना
+successful_make	सफल_बनाना
+To succeed	सफल_होना
+be patient	सब्र_करना
+to understand	समझ_पाना
+Understand	समझना
+to explain	समझवाना
+Explain	समझाना
+to persuade	समझाना-बुझाना
+to be flat	समतल_होना
+time to fix	समय_ठीक_करना
+schedule	समय_तय_करना
+schedule	समय_नियत_करना
+schedule_schedule	समय_निर्धारित_करना
+time_fix_make	समय_निश्चित_करना
+arrive on time	समय_पर_पहुँचना
+time measurement	समय_मापना
+time_set_do	समय_सेट_करना
+time scale	समयावधि_मापना
+dedicate	समर्पित_करना
+Samwana	समवाना
+to solve	समाधान_करना
+solution_to be	समाधान_होना
+Encounter	समाना
+To end	समाप्त_करना
+To finish	समाप्त_होना
+be included	समाविष्ट_होना
+blend	समिश्रित_करना
+mixed up	समिश्रित_होना
+To analyse	समीक्षा_करना
+crimp	समेटना
+to edit	सम्पादित_करना
+take care	सम्भालना
+to respect	सम्मान_करना
+give respect	सम्मान_देना
+To feliciatate	सम्मानित_करना
+to incorporate	सम्मिलित_करना
+handle	सम्हलना
+maintain	सम्हालना
+glide	सरकना
+to slide	सरकाना
+Creator	सरजना
+sarsrana	सरसराना
+be on the border	सरहद_पर_होना
+Appreciate	सराहना
+surgery	सर्जरी_करना
+fall in love	सल_पड़ना
+creasing	सलवट_पड़ना
+to give advice	सलाह_देना
+to ride	सवार_कराना
+To board	सवार_होना
+Tolerate	सहन_करना
+Tolerate	सहना
+Agree	सहमत_होना
+go with	सहमति_देना
+To Titillate	सहलाना
+often come	सहसा_आना
+save	सहेजना
+breathless	साँस_अटकना
+sigh	साँस_रुँधना
+to console	सांत्वना_देना
+to handle	साज_सँभाल_करना
+satina	साटना
+instrument	साधन_करना
+meditation	साधना
+kneading	सानना
+to prove	साबित_होना
+To face	सामना_करना
+socialize	सामाजिक_होना
+annually	सालना
+to caution	सावधान_करना
+Be careful	सावधान_रहना
+sync	सिंकना
+sync	सिंकवाना
+sync	सिंकाना
+irrigation	सिंचना
+to irrigate	सिंचवाना
+watering down	सिंचाई_करना
+to be irrigated	सिंचाई_होना
+to irrigate	सिंचाना
+to learn	सिकना
+teach	सिकाना
+shrink	सिकुड़ना
+to shrink	सिकोड़ना
+to teach	सिखलाना
+to teach	सिखाना
+feel	सिझना
+to teach	सिझाना
+to prove	सिद्ध_करना
+shrink	सिमटना
+head bowing	सिर_झुकाना
+Creator	सिरजना
+sewn	सिलगना
+sewn	सिलना
+fold up	सिलवट_पड़ना
+sewn	सिलवाना
+to stitch	सिलाई_करना
+to sew	सिलाई_करवाना
+sewing up	सिलाई_कराना
+sew	सिलाना
+sobbing	सिसकना
+sob	सिसकी_भरना
+sob	सिसकी_लेना
+shiver	सिहरना
+irrigate	सींचना
+Give advice	सीख_देना
+Learn	सीखना
+to feel	सीझना
+to teach	सीझाना
+sew	सीना
+border_on_be	सीमा_पर_होना
+to sniff	सुँघाना
+to inject	सुई_लगाना
+pleasant feeling	सुखद_लगना
+soothing	सुखदायक_बनाना
+make happy	सुखप्रद_बनाना
+drying	सुखाना
+suggest	सुझाना
+suggest	सुझाव_देना
+swell	सुड़कना
+improve	सुधरना
+to improve	सुधार_करना
+Improve	सुधारना
+Listen	सुनना
+to hear	सुनवाना
+Tell	सुनाना
+Numbness	सुन्न_होना
+To hand over	सुपुर्द_करना
+manage	सुप्रबंधित_करना
+sobbing	सुबकना
+subki_lena	सुबकी_लेना
+slip off	सुरकना
+To keep safe	सुरक्षित_रखना
+smolder	सुलगना
+Ignition	सुलगाना
+unravel	सुलझना
+patch up	सुलझाना
+make accessible	सुलभ_करना
+to settle	सुलवाना
+put to sleep	सुलाना
+to configure	सुविन्यस्त_करना
+organize	सुव्यवस्थित_करना
+To equip	सुसज्जित_करना

@@ -1,0 +1,1058 @@
+marksman	अंचकैं
+At the end	अंत_में
+finally	अंततः
+eventually	अंततोगत्वा
+last_dum_till	अंतिम_दम_तक
+Inside	अंदर
+guess	अंदाजन
+guess	अंदाज़न
+indiscriminate	अंधाधुंध
+often	अकसर
+all of a sudden	अकस्मात
+suddenly	अकस्मात्
+Causeless	अकारण
+Lonely	अकेला
+Lonely	अकेले
+randomly	अक्रमतः
+literally	अक्षरशः
+often	अक्सर
+Agatya	अगत्या
+if	अगर
+Side by side	अगल-बगल
+side by side	अग़ल-बग़ल
+secretly	अगुप्ततः
+in advance	अग्रतः
+forward	अग्रे
+Ack	अचक
+suddenly	अचांचक
+suddenly	अचाक
+achaka	अचाका
+achan	अचान
+suddenly	अचानक
+achir	अचिर
+Good	अच्छा
+Properly	अच्छी_तरह
+properly	अच्छी_तरह_से
+azhun	अजहुँ
+azhun	अजहूँ
+ajo	अजो
+ajaun	अजौं
+eightfold	अठगुना
+neighbourhood	अड़ोस-पड़ोस
+Therefore	अतः
+so	अतएव
+atarson	अतरसों
+Immediately	अतिशीघ्र
+very quickly	अतिशीघ्रतः
+in the past	अतीत_में
+extremely	अत्यंत
+Excessive	अत्यधिक
+extremely	अत्यन्त
+that	अथ
+up to date	अद्य
+half	अधः
+more	अधिक
+mostly	अधिकतः
+mostly	अधिकतर
+mostly	अधिकांशतः
+mostly	अधिकांशतया
+rightfully	अधिकारतः
+rightfully	अधिकारपूर्वक
+undeniably	अधिकारहीनतः
+in subordination	अधीनता_में
+Adhuna	अधुना
+downwards	अधो_दिशा_में
+underside	अधोरध
+semi	अधोर्ध
+semi-circular	अधौर्द्ध
+presiding	अध्यक्षर
+Anantar	अनंतर
+almost	अनकरीब
+unqarib	अनक़रीब
+unwanted	अनचाहे
+anat	अनत
+authority	अनधिकार
+infinity	अनन्तर
+unsolicited	अनमाँगे
+unmikh	अनमिख
+period	अनवधि
+relentlessly	अनवरत
+unusually	अनसूयतः
+unthinking	अनसोचे
+unqualified	अनहक
+Incidentally	अनागतः
+spontaneously	अनायास
+unworthy	अनाहक
+unmistakable	अनिमिख
+unintentional	अनिमित्त
+blinking	अनिमिष
+high pitched	अनिमेष
+Anish	अनिश
+Friendly	अनुकूल
+monitoring	अनुक्षण
+Today	अनुदिन
+day	अनुदिवस
+unprofessional	अनुपद
+presumably	अनुमानतः
+Anuvatsara	अनुवत्सर
+According	अनुसार
+many times	अनेकधा
+many times	अनेकशः
+Anera	अनेरा
+like this	अनैसे
+inside	अन्दर
+guess	अन्दाजन
+guess	अन्दाज़न
+otherwise	अन्यतः
+elsewhere	अन्यत्र
+otherwise	अन्यदा
+anas	अन्यास
+otheryu	अन्येद्यु
+vestibule	अन्वक्ष
+on one's own	अपनेआप
+according to crime	अपराधानुसार
+Aplk	अपलक
+Aparth	अपार्थ
+expected	अपेक्षया
+Relatively	अपेक्षाकृत
+incompetent	अप्रतीष
+unexpectedly	अप्रत्याशिततः
+effortlessly	अप्रयत्नतः
+unhappily	अप्रसन्नतापूर्वक
+Now	अब
+now_ki	अब_की
+till now	अब_तक
+now	अबकी
+till now	अबतक
+without	अबलग
+Afraid	अभरम
+proudly	अभिमान_से
+proudly	अभिमानपूर्वक
+oriented	अभिमुख
+stationary	अभिस्थिर
+Now	अभी
+right now	अभी_अभी
+So far	अभी_तक
+just now	अभी_ही
+right now	अभी-अभी
+So far	अभीतक
+abu	अभू
+unreasonably	अयाचिततः
+Separate	अलग
+However	अलबत्ता
+isolated	अलहदा
+sparingly	अल्पतः
+Sure	अवश्य
+must	अवश्यमेव
+continuous	अविरत
+Without delay	अविलंब
+without delay	अविलम्ब
+haphazardly	अव्यवस्थिततः
+rudely	अशिष्टतः
+quickly	अशीघ्रतः
+rudely	असभ्यतः
+untimely	असमय
+In fact	असल_में
+inadvertently	असावधानतः
+inadvertently	असावधानी_से
+Helter Skelter	अस्त-व्यस्त
+vaguely	अस्पष्टतः
+Ainda	आइन्दा
+ear	आकर्ण
+at last	आख़िर
+after all	आख़िरकार
+after all	आखिर
+Finally	आखिरकार
+ahead	आगे
+forward_toward_towards	आगे_की_ओर
+Front Back	आगे_पीछे
+In front	आगे-आगे
+Front Back	आगे-पीछे
+Front Back	आगेपीछे
+Today	आज
+These days	आज_कल
+Till date	आज_तक
+These days	आज-कल
+These days	आजकल
+Till date	आजतक
+lifelong	आजीवन
+side by side	आजू-बाजू
+as ordered	आज्ञानुसार
+obediently	आज्ञापूर्वक
+eight times	आठगुना
+eight hours	आठों_पहर
+terrifyingly	आतंकपूर्वक
+Habitually	आदतन
+with respect	आदर_सहित
+etc_in	आदि_में
+by order	आदेश_से
+by order	आदेशपूर्वक
+as ordered	आदेशानुसार
+end to end	आद्योपांत
+end to end	आद्योपान्त
+On the basis	आधार_पर
+You	आप
+Among themselves	आपस_में
+you yourself	आपही
+In general	आमतौर_पर
+usually_se	आमतौर_से
+to death	आमरण
+radical	आमूलचूल
+in the beginning	आरंभ_में
+astonishingly	आश्चर्यपूर्वक
+Nearby	आस-पास
+Nearby	आसपास
+easily	आसानी_से
+slowly	आहिस्ता
+slowly	आहिस्ता_से
+Gradually	आहिस्ता-आहिस्ता
+slowly	आहिस्ते
+slowly	आहिस्ते_से
+gradually	आहिस्ते-आहिस्ते
+to wish	इच्छा_से
+wishful	इच्छानुकुल
+as desired	इच्छानुसार
+this much only	इतना_ही
+in this much	इतने_में
+by chance	इत्तफ़ाक़न
+coincidence	इत्तफाकन
+here	इधर
+These days	इन_दिनों
+intentional	इरादतन
+with intent	इरादे_से
+around	इर्द-गिर्द
+on this side	इस_ओर
+this place	इस_जगह
+in such a way	इस_तरह
+in the meantime	इस_दरम्यान
+During this	इस_दौरान
+Thus	इस_प्रकार
+This time	इस_बार
+in between	इस_बीच
+This time	इस_समय
+This time	इसबार
+Therefore	इसलिए
+this instant	इसी_क्षण
+in the meantime	इसी_बीच
+right now	इसी_वक्त
+that's why	इसीलिए
+jealously	ईर्ष्यतः
+jealously	ईर्ष्यापूर्वक
+jealously	ईर्ष्याहीनतः
+Ukudu	उकडू
+tear up	उकडूँ
+liberally	उदारतापूर्वक
+example_format	उदाहरण_स्वरूप
+for example	उदाहरणतः
+for example	उदाहरणार्थ
+objectively	उद्देश्यतः
+purposefully	उद्देश्यपूर्वक
+aimlessly	उद्देश्यहीनतः
+disturbingly	उद्विग्नतः
+anxiously	उद्विग्नतापूर्वक
+there	उधर
+after	उपरांत
+after	उपरान्त
+Remedy_se	उपाय_से
+by means of	उपायतः
+probably	उभयतः
+Forever	उम्रभर
+inverted	उलटा_पुलटा
+invert	उलटा-पलटा
+invert	उलटा-पुलटा
+Disorderly	उल्टा_पुल्टा
+upside down	उल्टा-पल्टा
+Disorderly	उल्टा-पुल्टा
+that side	उस_ओर
+That place	उस_जगह
+like that	उस_तरह
+at that time	उस_वक्त
+That time	उस_समय
+like that	उसी_तरह
+height_at	ऊँचाई_पर
+up	ऊपर
+Down up	ऊपर-नीचे
+vertical	ऊर्द्ध्व
+vertical	ऊर्ध्व
+a_a_dug	एक_एक_डग
+Aside	एक_ओर
+one side	एक_तरफ
+one way	एक_तरफ़
+with each other	एक_दूसरे_से
+single	एकंग
+united	एकजुट
+lonely	एकटक
+At once	एकदम
+One-off	एकबारगी
+the only	एकमेव
+all of a sudden	एकाएक
+lonely	एकाकी
+This way	ऐसे
+Just like that	ऐसे_ही
+Average	औसतन
+many times	कई_बार
+hardly	कठिनतः
+with difficulty	कठिनाई_से
+Harshly	कठोरता_से
+Hard	कड़ा
+Sternly dealt with	कड़ाई_से
+absolutely	कतई
+at all	कत्तई
+according to the statement	कथनानुसार
+step by step	कदम-ब_कदम
+never	कदापि
+When	कब
+Till when	कब_तक
+sometimes	कभी
+Occasionally	कभी_न_कभी
+anytime	कभी_भी
+Sometimes	कभी-कभार
+Sometimes	कभी-कभी
+Sometimes	कभीकभार
+Sometimes	कभीकभी
+more or less	कमबेश
+more or less	कमोबेश
+Kareena wise	करीनावार
+neatly	करीने_से
+near	करीब
+More like	करीबकरीब
+almost	करीबन
+according to deeds	कर्मानुसार
+Tomorrow	कल
+for welfare	कल्याणार्थ
+tightly	कसकर
+as told	कहनानुसार
+Where	कहाँ
+somewhere	कहीं
+somewhere else	कहीं_और
+say	कहुँ
+say	कहूँ
+as said	कहे_अनुसार
+according to	कहे_मुताबिक
+according to say	कहे_मुताबिक़
+step_by_step	क़दम_ब_क़दम
+side by side	क़रीनावार
+neatly	क़रीने_से
+close	क़रीब
+close to	क़रीब_में
+close to	क़रीबक़रीब
+almost	क़रीबन
+Legally	क़ानूनन
+legally	क़ायदे_से
+installment_by_installment	क़िस्त_दर_क़िस्त
+installment wise	क़िस्तवार
+in installments	क़िस्तों_में
+by law	कानूनन
+enough	काफ़ी
+enough	काफी
+from work	काम_से
+because of	कारण_से
+due to	कारणवश
+without reason	कारणहीनतः
+over a period of time	कालांतर_में
+Bewildered	किंकर्तव्य-विमूढ़
+Bewildered	किंकर्तव्यविमूढ़
+out of duty	किंकर्त्तव्य-विमूढ़
+oblivious	किंकर्त्तव्यविमूढ़
+where	किधर
+for what	किस_वास्ते
+Why	किसलिए
+Once upon a time	किसी_समय
+installment wise	किस्तवार
+Some	कुछ
+in totality	कुल_मिलाकर
+maliciously	कुविधिपूर्वक
+skillfully	कुशलतापूर्वक
+Skillfully	कुशलपूर्वक
+premature	कुसमय
+gratefully	कृतज्ञतापूर्वक
+Please	कृपया
+please	कृपा_कर_के
+please	कृपा_करके
+kindly	कृपा_पूर्वक
+kindly	कृपापूर्वक
+inside	के_अंदर
+Inside	के_अन्दर
+inside	के_भीतर
+In college	केवल
+How	कैसे
+why	क्यूँकर
+Why	क्यों
+why	क्योंकर
+sequentially	क्रमवार
+respectively	क्रमशः
+randomly	क्रमहीनतः
+sequentially	क्रमानुसार
+brutally	क्रूरतापूर्वक
+moment by moment	क्षण-क्षण
+moment to moment	क्षणक्षण
+as per capacity	क्षमतानुसार
+packed	खचाखच
+Khatak_se	खटाक_से
+Bad	खराब
+silently	ख़ामोशी_से
+empty	ख़ाली
+especially	ख़ास_तौर_पर
+specially	ख़ास_तौर_से
+especially	ख़ासकर
+especially	ख़ासतौर_पर
+specially	ख़ासतौर_से
+myself	ख़ुद
+myself	ख़ुद_ही
+by itself	ख़ुद-ब-ख़ुद
+myself	ख़ुदबख़ुद
+happily	ख़ुशी_ख़ुशी
+happily	ख़ुशी_से
+great	ख़ूब
+silence_se	खामोशी_से
+Empty	खाली
+Especially	खासकर
+especially	खासतौर_पर
+especially from	खासतौर_से
+Self	खुद
+on its own	खुद-ब-खुद
+on its own	खुदबखुद
+frankly	खुल_कर
+frankly	खुलकर
+openly	खुले_तौर_पर
+openly	खुले-आम
+openly	खुलेआम
+openly	खुल्लम_खुल्ला
+frankly	खुल्लम-खुल्ला
+frankly	खुल्लमखुल्ला
+happily	खुशी_खुशी
+with pleasure	खुशी_से
+Plenty	खूब
+In fun	खेल_खेल_में
+wrong_time_at	गलत_वक्त_पर
+wrong_time_at	गलत_समय_पर
+depth_in	गहराई_में
+deep	गहरे
+at the wrong time	ग़लत_वक़्त_पर
+wrong_at_times	ग़लत_समय_पर
+falling down	गिरते_पड़ते
+falling down	गिरते-पड़ते
+secretly	गुपचुप_रूप_से
+secretly	गुप्ततः
+home_home	घर_घर
+house to house	घर-घर
+quick	चटपट
+quadrilateral	चतुर्गुण
+four ways	चहुँ_ओर
+four_fold	चार_गुना
+four times	चारगुना
+customs	चारनाचार
+Everywhere	चारों_ओर
+all around	चारों_तरफ़
+in all directions	चारों_दिशाओं_में
+without worry	चिंताहीनतः
+anxiously	चिंतिततः
+Silent	चुप
+quietly	चुपके_से
+silently	चुपके-चुपके
+Silently	चुपचाप
+agility_se	चुस्ती_से
+bangle	चूड़ांत
+chute	चूड़ान्त
+stealthily	चोरी_छिपे
+square_in	चौकोर_में
+quadruple	चौगुना
+quadruple	चौबारा
+six times	छःगुना
+chum-chum	छम-छम
+Chhamchham	छमछम
+six times	छहगुना
+snatch	छिन-छिन
+snatch	छिनछिन
+dissipated	छिन्न-भिन्न
+quadruple	छौगुना
+in place	जगह-जगह_पर
+When	जब
+Unless	जब_तक
+forcefully	जबरदस्ती
+Forcibly	जबरन
+fiercely	जमकर
+just	जरा
+Of course	जरूर
+Soon	जल्द
+as soon as possible	जल्द_से_जल्द
+Soon	जल्दी
+soon_quickly	जल्दी_से_जल्दी
+Where	जहाँ
+wherever	जहाँ_तहाँ
+coercion	ज़बरदस्ती
+forcibly	ज़बरन
+please	ज़रा
+Sure	ज़रूर
+lifetime	ज़िंदगीभर
+loudly	ज़ोर_से
+loudly	ज़ोर-शोर_से
+louder_se	ज़ोरशोर_से
+loudly	ज़ोरों_से
+more	ज़्यादा
+test	जाँच_परख_कर
+by checking	जाँच_परखकर
+intentionally	जान-बूझकर
+intentionally	जानबूझकर
+lifelong	जिंदगीभर
+Yes	जी
+Yes	जी_हाँ
+Lifelong	जीवनभर
+by making efforts	जुगत_लगाकर
+like_ka_sway	जैसे_का_तैसे
+somehow	जैसे_तैसे
+by letting	जैसे_भी_हो
+like_ho	जैसे_हो
+as	जैसे-जैसे
+somehow	जैसे-तैसे
+Loudly	जोर_से
+In full Swing	जोर-शोर_से
+vigorous	जोरदार
+In full Swing	जोरशोर_से
+loudly	जोरों_से
+More	ज्यादा
+mostly	ज्यादातर
+As it is	ज्यों_का_त्यों
+as soon as	ज्यों-ज्यों
+jerks_with_with	झटके_के_साथ
+with a jerk	झटके_से
+instant	झटपट
+lies	झूठ-मूठ
+tuck-tuck	टक-टक
+gaze_se	टकटकी_से
+Tanatan	टनाटन
+Staring at someone	टुकुर_टुकुर
+cold_cold	ठंडे_ठंडे
+cold and cold	ठंडे-ठंडे
+frosty	ठंढे_ठंढे
+frosty	ठंढे-ठंढे
+chock	ठसाठस
+pause	ठहर_ठहर_कर
+Fine	ठीक
+properly	ठीक_से
+ok	ठीक-ठाक
+ok	ठीक-ठाक_से
+ok	ठीकठाक
+thump	ठुँसाठुँस
+chubby	ठुसाठुस
+dunk_ki_hurt_per	डंके_की_चोट_पर
+bout	डटकर
+bragging	डींग_मारते_हुए
+properly	ढंग_से
+About	तकरीबन
+almost	तक़रीबन
+early morning	तड़_से
+early morning	तड़के
+tadak_se	तड़ाक_से
+early morning	तड़ातड़
+thereafter	ततपश्चात
+Immediately	तत्काल
+immediately	तत्क्षण
+Subsequently	तदंतर
+Thereafter	तदउपरांत
+Subsequently	तदनंतर
+Subsequently	तदनन्तर
+Subsequently	तदन्तर
+thereupon	तदुपरांत
+thereupon	तदुपरान्त
+Thereafter	तदोपरांत
+after that	तदोपरान्त
+secluded	तनहा
+a little	तनिक
+lonely	तन्हा
+Tapak_se	तपाक_से
+Then	तब
+Until then	तब_तक
+trick_se	तरकीब_से
+krative_se	तरतीब_से
+cravings	तरसों
+way_by	तरीक़े_से
+In a proper way	तरीके_से
+Underneath	तले
+life	ताउम्र
+speedy	ताबड़तोड़
+triple	तिगुना
+dispersed	तितर-बितर
+again	तिबारा
+Three times	तीन_गुना
+Three times	तीनगुना
+Intense	तीव्र
+intensity_se	तीव्रता_से
+Immediately	तुरंत
+Immediately	तुरन्त
+in comparison	तुलना_में
+fast	तेज
+Fast	तेज़
+quickly	तेज़ी_से
+with speed	तेजी_से
+Tebara	तेबारा
+tremble	थरथर
+Some	थोड़ा
+a little bit	थोड़ा_थोड़ा
+a little bit	थोड़ा_सा
+little by little	थोड़ा-थोड़ा
+Danadan	दनादन
+mercifully	दया_से
+mercifully	दयापूर्वक
+rate to	दर-दर
+Dar-Badar	दर-बदर
+Actually	दरअसल
+bypassed	दरकिनार
+Actually	दरसाल
+for viewing	दर्शनार्थ
+ten times	दश_गुना
+tenfold	दशगुना
+ten times	दस_गुना
+ten times	दसगुना
+day and night	दिन_रात
+day to day	दिन-दिन
+day day	दिन-पर-दिन
+day to day	दिन-प्रतिदिन
+Day After day	दिन-ब_दिन
+Day After day	दिन-बदिन
+day and night	दिन-रात
+day by day	दिनदिन
+day to day	दिनप्रतिदिन
+Day After day	दिनबदिन
+All day	दिनभर
+day night	दिनरात
+day by day	दिनों-दिन
+day by day	दिनोंदिन
+double	दुगना
+double	दुगुना
+Again	दुबारा
+double	दूना
+Distant	दूर
+At a distance	दूरी_पर
+firmly	दृढ़तापूर्वक
+late in	देर_में
+sooner or later	देर-सवेर
+delay_by	देरी_से
+ordinarily	दैववश
+divine	दैवात्
+double	दोगुना
+Again	दोबारा
+door to door	द्वार-द्वार
+diploid	द्विगुण
+diploid	द्विगुणित
+maliciously	द्वेषपूर्वक
+maliciously	द्वेषहीनतः
+quickly	धड़ाधड़
+charitable	धर्मार्थ
+slow	धीमे
+Slow	धीरे
+slowly	धीरे_धीरे
+slowly	धीरे-धीरे
+smog	धूआँधार
+carefully	ध्यान_से
+carefully	ध्यानपूर्वक
+mindlessly	ध्यानहीनतः
+barefoot	नंगे_पैर
+near	नजदीक
+near	नज़दीक
+meekly	नम्रतापूर्वक
+nurses	नरसों
+null	नल्ल
+new times	नवगुना
+unhappily	नाख़ुशी_से
+unhappily	नाखुशी_से
+nominal	नाममात्र
+indignantly	नाराजगीपूर्वक
+annoyedly	नाराज़गीपूर्वक
+undeservedly	नाहक
+undeservedly	नाहक़
+without hesitation	निःसंकोच
+no doubt	निःसंदेह
+no doubt	निःसन्देह
+selfless	निःस्वार्थ
+Close	निकट
+near_in	निकट_में
+Nits	नित
+absolutely	नितांत
+absolutely	नितान्त
+Eternal	नित्य
+daily	नित्य_प्रति
+daily	नित्यप्रति
+tackle	निपट
+blink-only	निमिष-मात्र
+fanciful	निमेष-मात्र
+as follows	निम्नतः
+rule_se	नियम_से
+as per rules	नियमानुसार
+regularly	नियमिततः
+Continuous	निरंतर
+continuously	निरन्तर
+aimless	निरुद्देश्य
+purposefully	निरुद्देश्यतः
+mercilessly	निर्दयता_से
+mercilessly	निर्दयतापूर्वक
+blinking	निर्निमिष
+formative	निर्निमेख
+straight	निर्निमेष
+definitely	निश्चयपूर्वक
+certainly	निश्चिंततः
+silent	निश्शब्द
+conclusion	निष्कारण
+without hesitation	निसंकोच
+of course	निसंदेह
+of course	निसन्देह
+selfless	निस्वार्थ
+without hesitation	निस्संकोच
+of course	निस्संदेह
+of course	निस्सन्देह
+exceedingly	निहायत
+Down	नीचे
+ninefold	नौगुना
+fivefold	पचगुना
+Board	पट
+belt	पट्ट
+post_post_post	पद_प्रति_पद
+according to tradition	परंपरानुसार
+necessarily	परवशतः
+percent	परसेंट
+Day before	परसों
+Mutually	परस्पर
+subjectively	पराधीनतः
+the resulting	परिणाम_स्वरूप
+consequently	परिणामतः
+beyond	परे
+every moment	पल_पल
+every moment	पल-पल
+moment	पल-भर
+moment	पलभर
+later	पश्चतः
+after	पश्चात
+after	पश्चात्
+Earlier	पहले
+the earliest	पहले_पहल
+already	पहले_से
+the earliest	पहले-पहल
+five times	पाँचगुना
+behind	पाछे
+near	पास
+Surroundings	पास_पड़ोस
+near	पास_में
+Surroundings	पास-पड़ोस
+in the last_days_	पिछले_दिनों_में
+behind	पीछे
+Following	पीछे-पीछे
+again	पुनः
+Complete	पूरा
+Fully	पूरी_तरह
+Completely	पूरी_तरह_से
+all day	पूरेदिन
+completely	पूर्णतः
+Fully	पूर्णतया
+East	पूर्व
+in the past	पूर्व_काल_में
+formerly	पूर्वतः
+undo	पूर्ववत
+undo	पूर्ववत्
+preparatory	पूर्वापर
+backwards	पृष्ठतः
+petkaiyan	पेटकैयाँ
+full stomach	पेटभर
+Present	पेश
+on foot	पैदल
+every moment	प्रति_क्षण
+waiting	प्रतिक्षण
+every day	प्रतिदिन
+per moment	प्रतिपल
+typical	प्रतिरूपतः
+Per year	प्रतिवर्ष
+Percent	प्रतिशत
+First	प्रथम
+primarily	प्रथमतः
+try_from	प्रयत्न_से
+effortlessly	प्रयत्नतः
+diligently	प्रयत्नपूर्वक
+effortlessly	प्रयत्नहीनतः
+purposefully	प्रयोजनतः
+purposelessly	प्रयोजनहीनतः
+flow_to_side	प्रवाह_की_ओर
+flow_in_direction_in	प्रवाह_की_दिशा_में
+happily	प्रसन्नतः
+happily	प्रसन्नतापूर्वक
+Often	प्रायः
+Fazul	फजूल
+quick	फटाफट
+as a result	फलतः
+consequently	फलस्वरूप
+Fazool	फ़ज़ूल
+Fazul	फ़जूल
+futile	फ़िज़ूल
+useless	फ़िजूल
+at the moment	फ़िलहाल
+Percent	फ़ीसदी
+immediately	फ़ौरन
+waste	फिजूल
+Then	फिर
+again	फिर_से
+At present	फिलहाल
+Percentage	फीसदी
+post haste	फुर्ती_से
+bitterly	फूट-फूटकर
+rhetorically	फूटफूट_कर
+immediately	फौरन
+well	बख़ूबी
+disclaimer	बख़ैर
+sickle	बख़ैरीय
+well	बखूबी
+Well	बखैर
+good luck	बखैरीयत
+without	बग़ैर
+without	बगैर
+time	बजे
+exaggerate	बढ़ा-चढ़ाकर
+exaggerate	बढ़ाचढ़ाकर
+Excellent	बढ़िया
+as	बतौर
+Badstoor	बदस्तूर
+barzori	बरज़ोरी
+barbs	बरबस
+kindly	बराए_मेहरबानी
+barbarously	बर्बरतापूर्वक
+by force	बलपूर्वक
+Enough	बस
+very	बहुत
+very much	बहुत_अधिक
+many times	बहुत_बार
+Frequently	बहुधा
+left	बाएँ
+left side	बाएँ_बाज़ू
+quite often	बाक़ायदा
+after	बाद
+post-air	बाद-हवाई
+Badhawai	बादहवाई
+left	बायें
+Frequently	बार_बार
+Frequently	बार-बार
+frequent	बारंबार
+frequent	बारम्बार
+turn by turn	बारी-बारी_से
+in detail	बारीक़ी_से
+meticulously	बारीकी_से
+Basaur	बासऊर
+Outside	बाहर
+without speaking	बिन_बोले
+unsolicited	बिन_माँगे
+unsolicited	बिनमाँगे
+without	बिना
+without effort	बिना_परिश्रम
+without_log_wrap_k	बिना_लाग_लपेट_के
+with no doubt	बिना_शक
+Absolutely	बिलकुल
+bilanaga	बिलानागा
+badass	बिलाशक
+Absolutely	बिल्कुल
+in between	बीच-बीच_में
+beach_beach	बीचम_बीच
+in the middle	बीचों_बीच
+in the middle	बीचों-बीच
+in the middle	बीचोंबीच
+in the middle	बीचोबीच
+bad	बुरा
+badly	बुरी_तरह
+inexplicable	बे-इंतहा
+restless	बेआराम
+endlessly	बेइंतहा
+defiantly	बेखटक
+freely	बेखटके
+feel free	बेझिझक
+random	बेतरतीब
+random	बेतरीक़े
+wildly	बेतहाशा
+unkindness_se	बेदर्दी_से
+fearlessly	बेधड़क
+meaningless	बेमतलब
+by chance	बेमौके
+ruthlessly	बेरहमी_से
+untimely	बेवक़्त
+untimely	बेवक्त
+without any reason	बेवजह
+Undoubted	बेशक
+impudence	बेसाख्ता
+without thinking	बेसोचे_समझे
+without hesitation	बेहिचक
+plentiful	भरपूर
+full	भरपेट
+to the fullest	भरसक
+trust	भरोसे
+well done	भली_भाँति
+well done	भली_भांति
+well	भली-भाँति
+thoroughly	भली-भांति
+well	भलीभाँति
+well	भलीभांति
+in future_time	भविष्य_काल_में
+in future	भविष्य_में
+Bhinsaare	भिनसहरे
+Bhinsare	भिनसारे
+inside	भीतर
+In the past	भूत_काल_में
+ghost in	भूत_में
+astonished	भौंचक्का
+firmly	मजबूती_से
+forced	मजबूरन
+with strength	मज़बूती_से
+forced	मज़बूरन
+in view	मद्देनजर
+in view	मद्देनज़र
+posthumous	मरणोपरांत
+posthumous	मरणोपरान्त
+posthumous	मर्णोत्तर
+For example	मसलन
+just	महज़
+big	महा
+by asking	माँगकर
+Only	मात्र
+forehead	माथे
+sorry	माफिक
+sure	मुआफ़िक़
+as per	मुआफिक
+compared to	मुक़ाबले
+competition	मुकाबले
+mainly	मुख्यतः
+according to	मुताबिक
+corresponding	मुताबिक़
+hardly	मुश्किल_से
+promptness	मुस्तैदी_से
+till death	मृत्युपर्यन्त
+In	में
+It is a humble request	मेहरबानी_करके
+silence	मौन
+silently	मौनतः
+sure	यक़ीनन
+suddenly	यकायक
+of course	यकीनन
+at least	यत्किंचित्
+due diligence	यथाकर्म
+in order	यथाक्रम
+as far as possible	यथाक्षम
+as a rule	यथानियम
+as crime	यथापराध
+as much as possible	यथाभीष्ट
+Unchanged	यथावत
+as it is	यथावत्
+as desired	यथावांछित
+as far as possible	यथाशक्ति
+as far as possible	यथासंभव
+in due course	यथासमय
+as far as practicable	यथासाध्य
+in place	यथास्थान
+ad libitum	यथेच्छ
+sometimes	यदा
+occasionally	यदा-कदा
+rarely	यदाकदा
+If	यदि
+Here	यहाँ
+Here	यहाँ_पर
+probably	याचिततः
+tactfully	युक्तिपूर्वक
+you	यूँ
+just like that	यूँ_ही
+as such	यों
+just like that	यों_ही
+you	यौं_ही
+mere captivating	रंचमात्र
+Slowly slowly	रफ्ता-रफ्ता
+overnight	रातों-रात
+overnight	रातोंरात
+rim-jhim	रिम-झिम
+drizzle	रिमझिम
+drizzle	रिमझिम-रिमझिम
+Intermittently	रुकरुककर
+Daily	रोज
+everyday	रोज़
+everyday	रोज़ाना
+Daily	रोजाना
+Around	लगभग
+Continuously	लगातार
+Laberge	लबरेज
+laborious	लबरेज़
+full	लबालब
+carelessly	लापरवाही_से
+only a trace	लेशमात्र
+refund	लौटानी
+square_in	वर्गाकार_में
+in present	वर्तमान_में
+in fact	वस्तुतः
+There	वहाँ
+Indeed	वाकई
+really	वाक़ई
+Back	वापस
+back	वापिस
+Actually	वास्तव_में
+thoughtfully	विचारपूर्वक
+thoughtlessly	विचारहीनतः
+in due course	विचारिततः
+legally	विधानतः
+lawfully	विधिपूर्वक
+lawfully	विधिबत्
+lawlessly	विधिहीनतः
+politely	विनयपूर्वक
+intermittently	विरामतः
+late	विलंबतः
+late	विलंबपूर्वक
+compulsively	विवश_होकर
+compulsively	विवशतः
+specifically	विशिष्टतः
+especially	विशेषकर
+especially	विशेषतः
+elder	वृथा
+By the way	वैसे
+in vain	व्यर्थ
+in vain	व्यर्थ_ही
+systematically	व्यवस्थापूर्वक
+systematically	व्यवस्थिततः
+hundred percent	शत-प्रतिशत
+verbatim	शब्दशः
+peacefully	शांतिपूर्वक
+peacefully	शान्तिपूर्वक
+Perhaps	शायद
+decently	शालीनतः
+politely	शिष्टतः
+courteously	शिष्टाचारपूर्वक
+dishonestly	शिष्टाचारहीनतः
+Soon	शीघ्र
+quickly	शीघ्रतः
+in the beginning	शुरू_में
+boasting	शेखी_मारते_हुए
+amateur	शौकिया
+resolutely	संकल्पपूर्वक
+without hesitation	संकोचहीनतः
+suspiciously	संदिग्धतः
+as a whole	संपूर्णतः
+as a whole	संपूर्णतया
+currently	संप्रति
+possibly	संभवतः
+by handling	संभालकर
+Coincidentally	संयोगवश
+by chance	संयोगवशात्
+safe	सकुशल
+strict	सख़्त
+Strict	सख्त
+proud	सगर्व
+Very true	सच-सच
+Really	सचमुच
+true_muchchi	सच्ची_मुच्ची
+true man	सच्ची-मुच्ची
+Satguna	सतगुना
+Continuous	सतत
+respectfully	सत्कारपूर्वक
+really	सत्यतः
+Always	सदा
+body	सदेह
+Always	सदैव
+adjacent	सन्निकट
+wife	सपत्नीक
+purpose	सप्रयोजन
+all together	सब_मिलाकर
+in all	सब_में
+First of all	सबसे_पहले
+in the morning	सबेरे
+all_side	सभी_तरफ़
+civilly	सभ्यतः
+before	समक्ष
+consciously	समझ_बूझ_कर
+deliberately	समझ-बूझकर
