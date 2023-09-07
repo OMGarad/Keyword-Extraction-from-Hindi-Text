@@ -1,1 +1,3 @@
-This contains all the files and notebooks for the BERT Informal Project done with Basabdatta Bhattacharya ma'am and Aiswarya Subramaniam.
+# Keyword Extraction from Hindi Text
+
+This repository contains the workings to develop a [sentenceBERT](https://www.sbert.net/) model that extracts keywords from Hindi texts.
